@@ -1,0 +1,1001 @@
+"","termin_wycieczki","wyzywienie","organizator","region","miejscowosc","ocena_wycieczki","hotel_nazwa","hotel_gwiazdki","id_wycieczki","liczba_rezerwacji","cena_za_osobe","data_aktualizacji"
+"1",2019-03-24,"All Inclusive","Rainbow","Teneryfa","Puerto Santiago",8.8,"Be Live Experience Playa la Arena",4.5,"180556",1577,3149,2018-12-23
+"2",2019-03-24,"All Inclusive","Rainbow","Teneryfa","Costa Adeje",7.3,"Labranda Isla Bonita (ex. Adonis)",4,"359555",482,2399,2018-12-23
+"3",2019-05-09,"All Inclusive","Itaka","Teneryfa","Puerto de Santiago",7.4,"Blue Sea Lagos De Cesar",4,"441958",521,2439,2018-12-23
+"4",2019-03-29,"All Inclusive","Rainbow","Gran Canaria","Playa del Ingles",8.5,"IFA Buenaventura",3.5,"199799",308,2435,2018-12-23
+"5",2019-03-11,"All Inclusive","Itaka","Costa del Sol","Motril",9.7,"Playa Granada Club Resort",4.5,"442032",155,2389,2018-12-23
+"6",2019-03-07,"All Inclusive","Rainbow","Fuerteventura","Caleta de Fuste",7.8,"Costa Caleta",3.5,"192115",683,1914,2018-12-23
+"7",2019-03-11,"All Inclusive","Itaka","Fuerteventura","Esquinzo",7.8,"SBH Club Paraiso Playa",4,"442043",295,2929,2018-12-23
+"8",2019-05-09,"All Inclusive","Itaka","Teneryfa","Los Gigantes",7.6,"Allegro Isora (Barcelo Varadero)",4,"441948",201,2819,2018-12-23
+"9",2019-05-09,"All Inclusive","Itaka","Teneryfa","Puerto de Santiago",8.8,"Be Live Experience Playa la Arena",4.5,"441951",1577,3199,2018-12-23
+"10",2019-03-25,"All Inclusive","Itaka","Fuerteventura","Costa Calma",8.3,"R2 Pajara Beach",4,"442045",234,3059,2018-12-23
+"11",2019-03-16,"bez wy¿ywienia","Exim Tours","Fuerteventura",NA,6.8,"Globales Costa Tropical",3,"498100",197,1229,2018-12-23
+"12",2019-03-10,"All Inclusive","Rainbow","Teneryfa","Costa Del Silencio",7.6,"Palia Don Pedro",3,"258804",330,2171,2018-12-23
+"13",2019-04-04,"bez wy¿ywienia","Exim Tours","Costa Brava","Malgrat del Mar",7.6,"H- Top Cartagonova",3,"510393",356,1049,2018-12-23
+"14",2019-03-21,"œniadania i obiadokolacje","Atur","Costa Brava","Lloret de Mar",7.8,"Samba",3,"427027",2180,1548,2018-12-23
+"15",2019-05-16,"œniadania","Itaka","Teneryfa","Santa Ursula",7.9,"La Quinta Park Suites",4,"466803",107,2279,2018-12-23
+"16",2019-04-04,"bez wy¿ywienia","Exim Tours","Costa Brava",NA,7,"H- Top Summer Sun (ex. Sant Jordi)",3,"510424",1432,1049,2018-12-23
+"17",2019-03-21,"All Inclusive","Rainbow","Fuerteventura","Morro Jable",9.4,"Labranda Cactus Garden",4,"447917",604,2185,2018-12-23
+"18",2019-03-09,"All Inclusive","Itaka","Lanzarote","Costa Teguise",8.3,"Be Live Experience Grand Tequise Playa (ex. Occidental Gran)",4,"442053",292,3059,2018-12-23
+"19",2019-03-14,"All Inclusive","Rainbow","Fuerteventura","Caleta de Fuste",7.1,"Elba Lucia Sport & Suite (ex Castillo de Elba)",3,"258803",379,1714,2018-12-23
+"20",2019-04-04,"bez wy¿ywienia","Exim Tours","Costa Brava",NA,7.4,"H-TOP Royal Sun (Santa Susanna)",4,"510437",227,1149,2018-12-23
+"21",2019-03-18,"œniadania i obiadokolacje","Itaka","Fuerteventura","Costa Calma",8.3,"R2 Rio Calma",5,"442072",300,2879,2018-12-23
+"22",2019-03-25,"œniadania i obiadokolacje","Itaka","Fuerteventura","Corralejo",8.4,"Oasis Dunas",3,"442157",136,2389,2018-12-23
+"23",2019-03-25,"All Inclusive","Itaka","Fuerteventura","Costa Calma",8.1,"SBH Costa Calma Beach Resort",4,"442044",649,2969,2018-12-23
+"24",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Torremolinos",8,"Blue Sea Gran Cervantes",4,"491775",148,1479,2018-12-23
+"25",2019-03-14,"All Inclusive","Rainbow","Fuerteventura","Caleta de Fuste",7.3,"Club Caleta Dorada",3,"359570",161,1714,2018-12-23
+"26",2019-03-14,"All Inclusive","Rainbow","Fuerteventura","Corralejo",8.3,"Aloe Club",3.5,"180551",210,2085,2018-12-23
+"27",2019-05-23,"œniadania i obiadokolacje","Itaka","Teneryfa","Puerto de la Cruz",7.2,"Blue Sea Interpalace (ex. Hostasa)",4,"441954",198,2249,2018-12-23
+"28",2019-05-16,"All Inclusive","Itaka","Teneryfa","Puerto de la Cruz",7.6,"Blue Sea Puerto Resort",4,"441964",196,2539,2018-12-23
+"29",2019-03-09,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,6.9,"Annapurna Tenerife (ex Alborada Beach Club)",3,"491661",400,1579,2018-12-23
+"30",2019-05-11,"bez wy¿ywienia","Wezyr","Costa Brava","Santa Susanna",7,"H- Top Summer Sun (ex. Sant Jordi)",3,"360782",1432,1560,2018-12-23
+"31",2019-03-14,"All Inclusive","Rainbow","Fuerteventura","Caleta de Fuste",9,"Elba Carlota",4.5,"198601",246,2445,2018-12-23
+"32",2019-05-09,"All Inclusive","Itaka","Teneryfa","Callao Salvaje",6.7,"Blue Sea Callao Garden (ex Vime)",3,"441947",154,2379,2018-12-23
+"33",2019-03-09,"All Inclusive","Exim Tours","Teneryfa",NA,NA,"Gema Aguamarina Golf",4,"498582",NA,2489,2018-12-23
+"34",2019-03-15,"All Inclusive","Itaka","Gran Canaria","Maspalomas",8.3,"Tabaiba Princess",4.5,"455745",93,3579,2018-12-23
+"35",2019-05-07,"All Inclusive","Itaka","Gran Canaria","Playa del Ingles",8.2,"Barcelo Margaritas",4,"442146",151,3069,2018-12-23
+"36",2019-03-21,"œniadania i obiadokolacje","Itaka","Wyc. objazdowe",NA,NA,"Zawsze Niech Bêdzie S³oñce",NA,"489251",NA,2889,2018-12-23
+"37",2019-05-07,"œniadania i obiadokolacje","Itaka","Gran Canaria","San Agustin",9.2,"Dunas Don Gregory",4.5,"442096",90,2959,2018-12-23
+"38",2019-05-04,"All Inclusive","Itaka","Lanzarote","Puerto del Carmen",8.6,"Lanzarote Village",4,"442099",38,3229,2018-12-23
+"39",2019-03-22,"All Inclusive","Itaka","Gran Canaria","San Agustin",8.3,"Ifa Interclub Atlantic",3,"442079",327,2909,2018-12-23
+"40",2019-03-30,"All Inclusive","Itaka","Lanzarote","Costa Teguise",8.4,"Los Zocos",4,"442039",169,2979,2018-12-23
+"41",2019-05-10,"All Inclusive","Rainbow","Gran Canaria","Playa de Taurito",7.7,"Paradise Costa Taurito",4,"192457",93,2732,2018-12-23
+"42",2019-05-21,"bez wy¿ywienia","Exim Tours","Costa Brava",NA,8,"H Top Pineda Palace",4,"510436",223,1289,2018-12-23
+"43",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Benalmadena Coast",7.8,"Medplaya Bali (Benalmadena)",3,"491785",86,1349,2018-12-23
+"44",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Marbella",4.3,"Senator Marbella",4,"491827",NA,1889,2018-12-23
+"45",2019-03-28,"bez wy¿ywienia","Exim Tours","Costa Brava","Calella",7.9,"H-TOP Calella Palace & Spa",4,"510428",314,1029,2018-12-23
+"46",2019-03-28,"œniadania i obiadokolacje","Itaka","Teneryfa","Puerto de la Cruz",8.7,"Puerto De La Cruz",4,"445320",153,2539,2018-12-23
+"47",2019-03-14,"All Inclusive","Rainbow","Fuerteventura","Corralejo",9.1,"Bahia de Lobos",4.5,"283617",155,2571,2018-12-23
+"48",2019-04-04,"bez wy¿ywienia","Exim Tours","Costa Brava","Calella",7.6,"H Top Olympic (Calella)",3,"510392",49,1089,2018-12-23
+"49",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",8.1,"Gran Hotel Bali",4,"517546",345,1499,2018-12-23
+"50",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,8.6,"Perla Tenerife",3,"509649",56,1629,2018-12-23
+"51",2019-04-30,"œniadania i obiadokolacje","Neckermann","Lanzarote","Puerto del Carmen",8.2,"Beatriz Playa & Spa",4,"353239",247,2928,2018-12-23
+"52",2019-05-14,"Wszystko w cenie","Neckermann","Lanzarote","Playa de los Pocillos",9.3,"Ole Olivina Lanzarote",4,"253033",304,4474,2018-12-23
+"53",2019-05-04,"All Inclusive","Wezyr","Costa Brava","Malgrat De Mar",6.9,"Ibersol Sorra d'Or",3,"182393",457,1676,2018-12-23
+"54",2019-04-15,"œniadania i obiadokolacje","Itaka","Wyc. objazdowe",NA,6.8,"W Rytmie Flamenco",NA,"442007",NA,2759,2018-12-23
+"55",2019-05-23,"œniadania","Neckermann","Gran Canaria","Maspalomas",9.4,"Ifa Faro",4.5,"500119",NA,4287,2018-12-23
+"56",2019-04-23,"All Inclusive","Exim Tours","Costa Brava",NA,NA,"Santa Susanna Resort",3,"510330",NA,1529,2018-12-23
+"57",2019-05-19,"All Inclusive","Exim Tours","Majorka",NA,8.3,"Beverly Playa",3.5,"514968",604,2079,2018-12-23
+"58",2019-05-20,"All Inclusive","Rainbow","Andaluzja - Costa Almeria","Roquetas de Mar",8.5,"Mediterraneo Park (Roquetas de Mar)",4.5,"204121",108,3399,2018-12-23
+"59",2019-03-17,"œniadania","Exim Tours","Teneryfa",NA,6.1,"San Telmo (Puerto de la Cruz)",3,"491884",69,1599,2018-12-23
+"60",2019-03-18,"œniadania","Itaka & Gala","Costa del Sol","La Vinuela",8.7,"La Vinuela",4.5,"442237",NA,2419,2018-12-23
+"61",2019-03-30,"All Inclusive","Itaka","Lanzarote","Puerto del Carmen",8.8,"BelleVue Aquarius",3,"442074",198,2669,2018-12-23
+"62",2019-05-04,"œniadania","Exim Tours","Costa Blanca","Benidorm",9.6,"Poseidon Resort (ex. Complejo)",3.5,"516941",NA,1929,2018-12-23
+"63",2019-05-13,"All Inclusive","Rainbow","Andaluzja - Costa Almeria","Roquetas de Mar",7.8,"Evenia Zoraida Garden",4.5,"202374",24,2664,2018-12-23
+"64",2019-05-11,"œniadania i obiadokolacje","Rainbow","Costa Brava","Calella",8.1,"Miami",3,"463670",116,1899,2018-12-23
+"65",2019-05-06,"œniadania i obiadokolacje","Rainbow","Wyc. objazdowe",NA,NA,"Dooko³a Hiszpanii",3,"181592",NA,3099,2018-12-23
+"66",2019-05-16,"All Inclusive","Itaka","Teneryfa","Puerto de la Cruz",NA,"Blue Sea Costa Jardin",4,"475920",NA,2529,2018-12-23
+"67",2019-05-21,"bez wy¿ywienia","Exim Tours","Costa Brava","Calella",10,"H Top Amaika",4,"510435",35,1289,2018-12-23
+"68",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Costa del Sol","Cala de Mijas",7.6,"VIK Gran Costa del Sol",4,"498327",116,1549,2018-12-23
+"69",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,8,"Corallium Dunamar",4,"499531",NA,3499,2018-12-23
+"70",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,7.9,"Laguna Park II",2,"499413",24,1979,2018-12-23
+"71",2019-05-05,"All Inclusive","Rainbow","Majorka","El Arenal",7.9,"Pinero Bahia De Palma",3,"461265",214,1999,2018-12-23
+"72",2019-05-17,"All Inclusive","Rainbow","Gran Canaria","Maspalomas",6.8,"Turbo Club",3,"410349",59,2300,2018-12-23
+"73",2019-04-04,"bez wy¿ywienia","Exim Tours","Costa Brava","Malgrat del Mar",6.4,"Planamar (Malgrat de Mar)",3,"510416",106,1049,2018-12-23
+"74",2019-05-18,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"La Carabela (Puerto de la Cruz)",3,"518592",NA,1389,2018-12-23
+"75",2019-05-12,"All Inclusive","Rainbow","Teneryfa","Playa Paraiso",8.8,"Bahia Principe Tenerife",5,"246168",68,4100,2018-12-23
+"76",2019-05-18,"bez wy¿ywienia","Wezyr","Costa Brava","Calella",7.6,"H Top Olympic",3,"281233",49,1560,2018-12-23
+"77",2019-05-11,"All Inclusive","Rainbow","Costa Brava","Malgrat de Mar",8,"Maripins",4,"315386",183,2449,2018-12-23
+"78",2019-03-16,"bez wy¿ywienia","Exim Tours","Fuerteventura","Caleta de Fuste",8.2,"Broncemar Beach",3,"498203",223,1499,2018-12-23
+"79",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,NA,"Panoramica Garden",3,"491886",NA,1569,2018-12-23
+"80",2019-03-16,"œniadania i obiadokolacje","Exim Tours","Fuerteventura","Costa Calma",9.2,"H10 Tindaya",4,"512999",29,2759,2018-12-23
+"81",2019-04-23,"All Inclusive","Itaka","Gran Canaria","Maspalomas",7.2,"Dunas Mirador Maspalomas",3.5,"442166",148,2689,2018-12-23
+"82",2019-03-11,"œniadania i obiadokolacje","Itaka","Andaluzja","Sierra Nevada",7.6,"Melia Sierra Nevada",4,"457464",NA,3199,2018-12-23
+"83",2019-03-18,"All Inclusive","Itaka","Fuerteventura","Caleta de Fuste",8.4,"Barcelo Castillo Beach Resort",4,"442138",105,3349,2018-12-23
+"84",2019-03-14,"All Inclusive","Rainbow","Fuerteventura","Caleta de Fuste",8.8,"Castillo San Jorge",3.5,"202006",31,2163,2018-12-23
+"85",2019-03-18,"All Inclusive","Itaka","Fuerteventura","Costa Calma",8.1,"SBH Taro Beach",4,"442041",226,2899,2018-12-23
+"86",2019-05-16,"All Inclusive soft","Itaka","Teneryfa","Puerto de la Cruz",8.3,"Be Live Experience Orotava",4,"441957",201,2659,2018-12-23
+"87",2019-05-18,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,8.9,"The Be Live Adults Only Tenerife (ex Be Live Exper",4,"518576",256,1949,2018-12-23
+"88",2019-03-21,"All Inclusive","Atur","Costa Brava","Lloret de Mar",7.8,"Samba",3,"288708",2180,1618,2018-12-23
+"89",2019-05-11,"œniadania","Exim Tours","Costa del Sol","Torremolinos",8,"Blue Sea Gran Cervantes",4,"509844",148,1529,2018-12-23
+"90",2019-05-18,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,6.9,"Annapurna Tenerife (ex Alborada Beach Club)",3,"522515",400,1719,2018-12-23
+"91",2019-05-11,"bez wy¿ywienia","Exim Tours","Costa del Sol","Benalmadena Coast",7.8,"Medplaya Bali (Benalmadena)",3,"509952",86,1529,2018-12-23
+"92",2019-05-11,"œniadania","Exim Tours","Costa del Sol","Marbella",4.3,"Senator Marbella",4,"510004",NA,1979,2018-12-23
+"93",2019-03-05,"œniadania","Exim Tours","Costa Blanca","Benidorm",8.1,"Gran Hotel Bali",4,"499257",345,1589,2018-12-23
+"94",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,8.6,"Perla Tenerife",3,"491659",56,1779,2018-12-23
+"95",2019-05-16,"œniadania","Neckermann","Gran Canaria","Maspalomas",9.4,"Ifa Faro",4.5,"500120",NA,4448,2018-12-23
+"96",2019-03-23,"œniadania","Exim Tours","Teneryfa",NA,6.1,"San Telmo (Puerto de la Cruz)",3,"491888",69,1719,2018-12-23
+"97",2019-04-02,"œniadania i obiadokolacje","Exim Tours","Costa del Sol","Cala de Mijas",7.6,"VIK Gran Costa del Sol",4,"510005",116,1879,2018-12-23
+"98",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Teneryfa","Costa Adeje",7.9,"Laguna Park II",2,"491900",24,2239,2018-12-23
+"99",2019-03-09,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"La Carabela (Puerto de la Cruz)",3,"498579",NA,1439,2018-12-23
+"100",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,NA,"Panoramica Garden",3,"522493",NA,1639,2018-12-23
+"101",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,8.9,"The Be Live Adults Only Tenerife (ex Be Live Exper",4,"491898",256,2129,2018-12-23
+"102",2019-03-25,"All Inclusive","Itaka","Fuerteventura","Marabu",8.2,"Fuerteventura Princess",4,"480073",270,3169,2018-12-23
+"103",2019-05-10,"All Inclusive","Rainbow","Gran Canaria","Playa del Ingles",8.1,"Labranda Playa Bonita (ex. Los Salmones)",4,"359560",60,2635,2018-12-23
+"104",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,3.9,"Globales Acuario",2,"509647",154,1449,2018-12-23
+"105",2019-03-17,"œniadania","Exim Tours","Teneryfa",NA,3.9,"Globales Acuario",2,"491821",154,1449,2018-12-23
+"106",2019-03-04,"All Inclusive","Itaka","Fuerteventura","Costa Calma",8,"SBH Monica Beach",4,"442080",211,3169,2018-12-23
+"107",2019-05-21,"All Inclusive","Itaka","Gran Canaria","Playa de Taurito",8.2,"Mogan Princess & Beach Club Resort",4,"442095",147,3169,2018-12-23
+"108",2019-05-18,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,NA,"Las Aguilas",4,"518582",NA,2089,2018-12-23
+"109",2019-03-03,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,NA,"Las Aguilas",4,"498836",NA,2249,2018-12-23
+"110",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,8.1,"Trovador",3,"518594",67,1489,2018-12-23
+"111",2019-03-23,"œniadania","Exim Tours","Teneryfa",NA,8.1,"Trovador",3,"491889",67,1859,2018-12-23
+"112",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria",NA,7.2,"Maspalomas Oasis Club",2,"491712",47,2489,2018-12-23
+"113",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria","Maspalomas",7.2,"Maspalomas Oasis Club",2,"491713",47,2499,2018-12-23
+"114",2019-05-04,"œniadania i obiadokolacje","Wezyr","Costa Brava","Lloret de Mar",8,"Gran Garbi",4,"227654",93,1910,2018-12-23
+"115",2019-03-04,"All Inclusive","Itaka","Fuerteventura","Corralejo",7.9,"Oasis Papagayo",3,"442162",110,2739,2018-12-23
+"116",2019-03-31,"All Inclusive","Rainbow","Teneryfa","Costa Adeje",6.8,"Playa Real Resort",4,"202376",136,2485,2018-12-23
+"117",2019-05-18,"œniadania i obiadokolacje","Ecco Holiday","Teneryfa","Puerto de la Cruz",8.6,"Perla Tenerife",3,"362937",56,2338,2018-12-23
+"118",2019-03-16,"bez wy¿ywienia","Exim Tours","Fuerteventura","Playa Esquinzo",NA,"Monte del Mar",3,"512998",NA,1689,2018-12-23
+"119",2019-05-18,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,9.5,"Lagos de Fanabe",3,"518584",NA,2349,2018-12-23
+"120",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,9.5,"Lagos de Fanabe",3,"498840",NA,3199,2018-12-23
+"121",2019-05-18,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"Checkin Bungalows Atlantida",3,"509697",NA,1629,2018-12-23
+"122",2019-03-09,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"Checkin Bungalows Atlantida",3,"518823",NA,2179,2018-12-23
+"123",2019-03-09,"bez wy¿ywienia","Exim Tours","Costa del Sol","Torremolinos",NA,"La Barracuda",3,"491780",NA,1189,2018-12-23
+"124",2019-05-11,"œniadania i obiadokolacje","Wezyr","Costa Brava","Lloret de Mar",6.9,"Garbi Park",4,"17286",137,1818,2018-12-23
+"125",2019-05-21,"bez wy¿ywienia","Exim Tours","Costa Brava","Lloret de Mar",7.6,"H-TOP Royal Star",4,"510430",62,1189,2018-12-23
+"126",2019-04-08,"œniadania i obiadokolacje","Rainbow","Costa del Sol","Almunecar",8.1,"Playacalida Spa",4.5,"182723",426,2330,2018-12-23
+"127",2019-05-21,"œniadania","Exim Tours","Costa Brava","Lloret de Mar",8.2,"GHT Oasis Park (Lloret de Mar)",4,"510434",394,1379,2018-12-23
+"128",2019-05-18,"All Inclusive","Rainbow","Costa Brava","Calella",7.9,"Top Calella Palace",4,"210077",314,2614,2018-12-23
+"129",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,8.5,"Beverly Park (Playa del Ingles)",3,"493402",277,2029,2018-12-23
+"130",2019-03-02,"œniadania i obiadokolacje","Itaka","Lanzarote","Costa Teguise",8,"Mansion Nazaret",3,"442086",80,2539,2018-12-23
+"131",2019-05-04,"bez wy¿ywienia","Wezyr","Costa Brava","Santa Susanna",7.6,"H-Top Cartagonova",3,"430283",356,1519,2018-12-23
+"132",2019-05-18,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,9.3,"Sunlight Bahia Principe San Felipe",4,"518585",107,2559,2018-12-23
+"133",2019-03-17,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,9.3,"Sunlight Bahia Principe San Felipe",4,"502181",107,2789,2018-12-23
+"134",2019-05-21,"bez wy¿ywienia","Exim Tours","Costa Brava","Lloret de Mar",5.2,"H. TOP Alexis (Lloret de Mar)",3,"510427",165,1089,2018-12-23
+"135",2019-03-28,"bez wy¿ywienia","Exim Tours","Costa Brava","Lloret de Mar",6.5,"H-TOP Royal Beach (Lloret de Mar)",4,"510429",60,1039,2018-12-23
+"136",2019-03-12,"œniadania i obiadokolacje","Prima Holiday","Costa Brava","Lloret Del Mar",9.9,"Evenia Olympic Garden",4,"513824",37,1967,2018-12-23
+"137",2019-05-11,"All Inclusive","Rainbow","Costa Brava","Calella",7.3,"Oasis Splash (ex Serhs Park)",4,"410299",28,2299,2018-12-23
+"138",2019-03-17,"All Inclusive","Rainbow","Teneryfa","Playa de las Americas",5,"Ponderosa",3,"410259",30,2220,2018-12-23
+"139",2019-05-04,"All Inclusive","Rainbow","Costa Brava","Lloret de Mar",7.7,"Guitart Central Park",4,"410223",137,2680,2018-12-23
+"140",2019-03-02,"All Inclusive","Itaka","Lanzarote","Puerto del Carmen",9.8,"Aequora Lanzarote Suites (ex. Sentido)",4.5,"442101",87,3339,2018-12-23
+"141",2019-03-18,"All Inclusive","Itaka & Gala","Fuerteventura","Tarajalejo",8.4,"Design R2 Bahia Playa",4,"442134",199,2909,2018-12-23
+"142",2019-03-09,"bez wy¿ywienia","Exim Tours","Costa del Sol","Fuengirola",NA,"Ilunion Fuengirola(ex confortel)",4,"504009",NA,1239,2018-12-23
+"143",2019-04-02,"bez wy¿ywienia","Exim Tours","Costa del Sol","Fuengirola",NA,"Ilunion Fuengirola",4,"509962",NA,1429,2018-12-23
+"144",2019-05-11,"œniadania","Exim Tours","Teneryfa",NA,NA,"Checkin Concordia Playa",4,"509698",NA,1819,2018-12-23
+"145",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,NA,"Checkin Concordia Playa",4,"498832",NA,1899,2018-12-23
+"146",2019-03-04,"œniadania i obiadokolacje","Itaka","Fuerteventura","Costa Calma",8.8,"SBH Crystal Beach & Suites",4,"442100",99,2799,2018-12-23
+"147",2019-03-16,"œniadania i obiadokolacje","Itaka","Wyc. objazdowe",NA,NA,"Pla¿owanie na wulkanie",NA,"442088",NA,2769,2018-12-23
+"148",2019-03-09,"All Inclusive","Exim Tours","Teneryfa",NA,8.8,"Be Live Experience Playa La Arena",4,"499728",1577,3689,2018-12-23
+"149",2019-04-09,"bez wy¿ywienia","Exim Tours","Costa Brava","Lloret de Mar",NA,"H-TOP Palm Beach (ex. Ancla)",3,"510394",NA,1049,2018-12-23
+"150",2019-05-21,"bez wy¿ywienia","Exim Tours","Costa Brava","Calella",NA,"Alegria Espanya (ex Fergus Espanya)",3,"510431",NA,1299,2018-12-23
+"151",2019-05-18,"œniadania","Wezyr","Costa Brava","Santa Susanna",8.9,"Aqua Aquamarina",4,"189233",29,1932,2018-12-23
+"152",2019-03-02,"All Inclusive","Itaka","Lanzarote","Costa Teguise",7.4,"BlueBay Lanzarote Beach",3.5,"442073",155,2999,2018-12-23
+"153",2019-03-12,"All Inclusive 24h","Itaka","Gran Canaria","Playa del Ingles",8.5,"Abora Catarina (ex. Ifa)",4.5,"442051",142,3279,2018-12-23
+"154",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Benalmadena Coast",8.7,"Best Siroco",4,"491794",21,1589,2018-12-23
+"155",2019-05-04,"œniadania","Exim Tours","Costa del Sol","Benalmadena Coast",8.7,"Best Siroco",4,"509955",21,1779,2018-12-23
+"156",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,NA,"Blue Sea Costa Jardin",4,"522494",NA,1969,2018-12-23
+"157",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,NA,"Blue Sea Costa Jardin",4,"491897",NA,2099,2018-12-23
+"158",2019-05-18,"All Inclusive","Exim Tours","Teneryfa",NA,NA,"Blue Sea Costa Jardin",4,"518588",NA,2459,2018-12-23
+"159",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria","Playa del Ingles",7.3,"Rondo",4,"491817",57,2859,2018-12-23
+"160",2019-04-08,"œniadania i obiadokolacje","Rainbow","Andaluzja - Costa Almeria","Roquetas de Mar",NA,"Playacapricho",4,"311434",NA,2131,2018-12-23
+"161",2019-03-16,"All Inclusive","Exim Tours","Fuerteventura","Costa Calma",7.7,"Royal Suite",3,"498123",107,2319,2018-12-23
+"162",2019-05-18,"œniadania","Wezyr","Costa Brava","Lloret de Mar",8.2,"Oasis Park",4,"226427",394,1818,2018-12-23
+"163",2019-03-18,"All Inclusive","Itaka","Fuerteventura","Playa de Jandia",8.6,"Occidental Jandía Playa (ex Barcelo)",4,"442137",89,3169,2018-12-23
+"164",2019-05-04,"All Inclusive","Itaka","Lanzarote","Costa Teguise",8.2,"Occidental Lanzarote Mar (ex Barcelo Lanzarote Resort)",4.5,"442069",173,3029,2018-12-23
+"165",2019-05-09,"All Inclusive","Itaka","Teneryfa","Los Gigantes",8.7,"Barcelo Santiago",4.5,"441965",68,3369,2018-12-23
+"166",2019-03-17,"œniadania","Exim Tours","Teneryfa",NA,7.1,"Elegance Miramar",3,"502129",NA,1729,2018-12-23
+"167",2019-03-19,"bez wy¿ywienia","Exim Tours","Costa del Sol","Benalmadena Coast",8.9,"Holiday Palace",4,"491787",NA,1459,2018-12-23
+"168",2019-04-02,"bez wy¿ywienia","Exim Tours","Costa del Sol","Benalmadena Coast",8.9,"Holiday Palace",4,"509967",NA,1659,2018-12-23
+"169",2019-05-04,"œniadania","Wezyr","Costa Brava","Lloret de Mar",8.4,"Astoria Park",4,"270414",NA,1696,2018-12-23
+"170",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Puerto del Carmen",8.5,"Costa Mar (Puerto del Carmen)",3.5,"353227",68,2035,2018-12-23
+"171",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Puerto del Carmen",8.5,"Costa Mar (Puerto del Carmen)",3.5,"353225",68,3882,2018-12-23
+"172",2019-05-14,"Wszystko w cenie","Neckermann","Lanzarote","Teguise",10,"SunConnect HD Beach Resort",4,"376956",NA,3449,2018-12-23
+"173",2019-05-14,"Wszystko w cenie","Neckermann","Lanzarote","Teguise",10,"SunConnect HD Beach Resort",4,"376957",NA,3505,2018-12-23
+"174",2019-05-14,"Wszystko w cenie","Neckermann","Lanzarote","Teguise",10,"HD Beach Resort",4,"498695",NA,3946,2018-12-23
+"175",2019-05-14,"Wszystko w cenie","Neckermann","Lanzarote","Teguise",10,"HD Beach Resort",4,"498696",NA,4003,2018-12-23
+"176",2019-05-21,"œniadania i obiadokolacje","Exim Tours","Costa Brava","Lloret de Mar",7.9,"Blue Sea Montevista Hawai (ex Evenia )",3,"510317",202,1229,2018-12-23
+"177",2019-05-18,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,8.4,"Hovima La Pinta (Playa de las Americas)",4,"509739",NA,2999,2018-12-23
+"178",2019-05-13,"œniadania i obiadokolacje","Rainbow","Wyc. objazdowe",NA,7.2,"Hiszpania i Portugalia",3,"181591",NA,3149,2018-12-23
+"179",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,8.4,"Hovima La Pinta (Playa de las Americas)",4,"500406",NA,3439,2018-12-23
+"180",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria","Maspalomas",8.4,"Parque Bali",2,"491658",NA,1799,2018-12-23
+"181",2019-05-18,"All Inclusive","Exim Tours","Teneryfa",NA,9.3,"Villa Adeje Beach",3,"509657",87,2369,2018-12-23
+"182",2019-03-09,"All Inclusive","Exim Tours","Teneryfa",NA,9.3,"Villa Adeje Beach",3,"491904",87,2579,2018-12-23
+"183",2019-03-01,"All Inclusive","Rainbow","Gran Canaria","Playa del Ingles",8.3,"IFA Continental",3.5,"359563",72,2585,2018-12-23
+"184",2019-03-09,"bez wy¿ywienia","Exim Tours","Costa del Sol","Benalmadena Coast",NA,"Benalmadena Palace",4,"491789",NA,1429,2018-12-23
+"185",2019-05-23,"All Inclusive","Exim Tours","Majorka","Cala d Or",6.5,"Calimera Es Talaial",4,"515039",66,2419,2018-12-23
+"186",2019-05-21,"œniadania","Exim Tours","Costa Brava","Calella",7.3,"GHT Maritim (Calella)",3,"510302",29,1389,2018-12-23
+"187",2019-05-14,"Wszystko w cenie","Neckermann","Lanzarote","Playa Blanca",9.4,"Sandos Papagayo Beach Resort (ex. Arena)",4.5,"199403",NA,4998,2018-12-23
+"188",2019-05-16,"œniadania i obiadokolacje","Itaka","Teneryfa","Puerto de la Cruz",4.1,"Sol Parque San Antonio",4,"467204",37,2469,2018-12-23
+"189",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria",NA,NA,"Dunas Maspalomas",4,"498212",NA,3759,2018-12-23
+"190",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria","Maspalomas",NA,"Vista Oasis",2,"491711",NA,2099,2018-12-23
+"191",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria",NA,NA,"Vista Oasis",2,"493398",NA,2119,2018-12-23
+"192",2019-05-05,"All Inclusive","Rainbow","Majorka","Valdemossa",8.3,"Club Palia Maria Eugenia",4,"224600",88,2531,2018-12-23
+"193",2019-03-09,"œniadania","Exim Tours","Costa del Sol",NA,8.3,"Perla Marina (Nerja)",4,"491790",NA,1429,2018-12-23
+"194",2019-04-02,"œniadania","Exim Tours","Costa del Sol",NA,8.3,"Perla Marina (Nerja)",4,"509966",NA,1629,2018-12-23
+"195",2019-03-09,"bez wy¿ywienia","Exim Tours","Costa del Sol","Benalmadena Coast",NA,"Holiday World (Benalmadena)",4,"491784",NA,1269,2018-12-23
+"196",2019-04-02,"bez wy¿ywienia","Exim Tours","Costa del Sol","Benalmadena Coast",NA,"Holiday World (Benalmadena)",4,"516998",NA,1629,2018-12-23
+"197",2019-05-11,"œniadania i obiadokolacje","Regent","Barcelona",NA,NA,"Magia Barcelony",3,"213277",NA,2050,2018-12-23
+"198",2019-03-25,"œniadania i obiadokolacje","Itaka","Andaluzja","Sierra Nevada",NA,"Melia Sol y Nieve",4.5,"457463",NA,2739,2018-12-23
+"199",2019-03-09,"bez wy¿ywienia","Exim Tours","Costa del Sol","Fuengirola",NA,"Stella Maris (Fuengirola)",3,"491781",NA,1239,2018-12-23
+"200",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,8.4,"Gran Turquesa Playa",4,"491893",56,2299,2018-12-23
+"201",2019-04-04,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Caleta de Fuste",9,"Elba Carlota",4,"199342",246,3150,2018-12-23
+"202",2019-03-28,"bez wy¿ywienia","Exim Tours","Costa Brava","Lloret de Mar",9.6,"Alegria Plaza Paris (ex. Fergus Plaza Paris)",4.5,"510439",83,1329,2018-12-23
+"203",2019-04-27,"bez wy¿ywienia","Wezyr","Costa Brava","Calella",10,"Amaika",4,"360440",35,1814,2018-12-23
+"204",2019-05-18,"All Inclusive","Exim Tours","Teneryfa",NA,8.8,"Bahia Principe Tenerife (Playa Paraiso)",4,"518590",68,3279,2018-12-23
+"205",2019-03-09,"All Inclusive","Exim Tours","Teneryfa",NA,8.8,"Bahia Principe Tenerife (Playa Paraiso)",4,"502170",68,3379,2018-12-23
+"206",2019-05-18,"œniadania","Wezyr","Costa Brava","Lloret de Mar",8.5,"La Palmera & Spa",3,"270674",NA,1666,2018-12-23
+"207",2019-03-22,"All Inclusive","Rainbow","Gran Canaria","Playa del Cura",8.2,"Labranda Riviera Marina",4,"359562",48,2620,2018-12-23
+"208",2019-03-14,"All Inclusive","Rainbow","Fuerteventura","Corralejo",9.4,"Suite Atlantis Fuerteventura Resort",4.5,"180615",NA,3202,2018-12-23
+"209",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Costa Teguise",7.3,"Beatriz Costa Teguise",4,"353278",62,4133,2018-12-23
+"210",2019-03-14,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Cotillo",8,"Cotillo Beach",3,"426151",NA,2839,2018-12-23
+"211",2019-05-18,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"Apartamentos Teneguia",2,"509643",NA,1369,2018-12-23
+"212",2019-05-06,"All Inclusive","Itaka","Fuerteventura","Morro Jable",7.9,"Barcelo Jandia Mar",4,"442136",65,3149,2018-12-23
+"213",2019-03-25,"œniadania i obiadokolacje","Itaka","Costa del Sol","Cala de Mijas",7.6,"VIK Gran Hotel Costa del Sol",4,"442068",116,1919,2018-12-23
+"214",2019-03-12,"trzy posi³ki","Prima Holiday","Costa Brava","Lloret Del Mar",7.6,"H-TOP Royal Star",4,"502449",62,1699,2018-12-23
+"215",2019-05-21,"trzy posi³ki","Prima Holiday","Costa Brava","Lloret Del Mar",7.6,"H-TOP Royal Star",4,"519499",62,1872,2018-12-23
+"216",2019-03-09,"bez wy¿ywienia","Exim Tours","Costa del Sol","Fuengirola",8.3,"Myramar Fuengirola",3,"491783",NA,1379,2018-12-23
+"217",2019-05-11,"bez wy¿ywienia","Exim Tours","Costa del Sol","Fuengirola",8.3,"Myramar Fuengirola",3,"509954",NA,1559,2018-12-23
+"218",2019-05-18,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,4.9,"Pez Azul",3,"509641",NA,1389,2018-12-23
+"219",2019-03-09,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,4.9,"Pez Azul",3,"498580",NA,1439,2018-12-23
+"220",2019-05-18,"bez wy¿ywienia","Wezyr","Costa Brava","Calella",7.9,"Top Calella Palace",4,"360438",314,1662,2018-12-23
+"221",2019-05-04,"All Inclusive","Itaka","Lanzarote","Costa Teguise",8,"Occidental Lanzarote Playa (ex. Be Live)",4.5,"442090",147,2989,2018-12-23
+"222",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Costa del Sol","Torremolinos",3,"Royal Costa",3,"491792",51,1299,2018-12-23
+"223",2019-04-02,"œniadania i obiadokolacje","Exim Tours","Costa del Sol","Torremolinos",3,"Royal Costa",3,"509980",51,1559,2018-12-23
+"224",2019-03-12,"bez wy¿ywienia","Exim Tours","Costa del Sol","Torremolinos",8.3,"Royal al Andalus",4,"491791",56,1499,2018-12-23
+"225",2019-04-02,"bez wy¿ywienia","Exim Tours","Costa del Sol","Torremolinos",8.3,"Royal al Andalus",4,"509964",56,1639,2018-12-23
+"226",2019-04-23,"bez wy¿ywienia","Exim Tours","Costa Brava","Malgrat del Mar",8,"Alegria Maripins (ex. Fergus Maripins)",4,"510432",183,1369,2018-12-23
+"227",2019-05-16,"All Inclusive","Itaka","Teneryfa","Playa de las Americas",6.7,"Las Piramides (Playa de las Americas)",3,"441944",176,2529,2018-12-23
+"228",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,NA,"Tisalaya Park",1,"491819",NA,1699,2018-12-23
+"229",2019-05-05,"All Inclusive","Itaka","Majorka","Can Pastilla",9.3,"Calma",3.5,"505728",42,2069,2018-12-23
+"230",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria","Maspalomas",8.3,"Tabaiba Princess",4,"491720",93,3899,2018-12-23
+"231",2019-05-04,"œniadania i obiadokolacje","Exim Tours","Costa Dorada","Salou",9.3,"Gran Regina",4,"515232",27,1629,2018-12-23
+"232",2019-05-06,"œniadania i obiadokolacje","Rainbow","Costa de la Luz","Isla Canela",8,"Playacanela",4.5,"182751",140,2264,2018-12-23
+"233",2019-05-12,"All Inclusive","Itaka","Majorka","Cala D'Or",7.8,"Barcelo Ponent Playa",3.5,"505732",91,2189,2018-12-23
+"234",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria",NA,7.2,"Dunas Mirador Maspalomas",3,"495446",148,2699,2018-12-23
+"235",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,8.5,"IFA Buenaventura",3,"499404",308,2189,2018-12-23
+"236",2019-05-18,"œniadania","Wezyr","Costa Brava","Blanes",10,"Beverly Park",4,"213824",NA,1963,2018-12-23
+"237",2019-05-12,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",8.6,"Perla Tenerife",3.5,"369067",56,2425,2018-12-23
+"238",2019-04-21,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",8.6,"Perla Tenerife",3,"503538",56,2552,2018-12-23
+"239",2019-05-05,"All Inclusive","Rainbow","Majorka","Cala D'Or",8,"Palia Dolce Farniente",3,"260809",87,2449,2018-12-23
+"240",2019-05-23,"All Inclusive","Itaka","Teneryfa","Playa de la Arena",6.9,"Bahia Flamingo",3,"441962",78,2609,2018-12-23
+"241",2019-05-18,"All Inclusive","Exim Tours","Teneryfa","Costa Adeje",8.7,"Iberostar Las Dalias",4,"509727",38,2979,2018-12-23
+"242",2019-03-09,"All Inclusive","Exim Tours","Teneryfa","Costa Adeje",8.7,"Iberostar Las Dalias",4,"491921",38,3949,2018-12-23
+"243",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria","Playa del Ingles",7.4,"Jardin Atlantico",3,"491865",26,1769,2018-12-23
+"244",2019-03-23,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,7.4,"Jardin Atlantico",3,"494552",26,2289,2018-12-23
+"245",2019-05-18,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"Casa del Sol",3,"509640",NA,1389,2018-12-23
+"246",2019-05-18,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"GF Noelia",3,"518595",NA,1619,2018-12-23
+"247",2019-03-09,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"GF Noelia",3,"499810",NA,1769,2018-12-23
+"248",2019-05-18,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,8.2,"Hovima Santa Maria (Costa Adeje)",3,"509655",54,1899,2018-12-23
+"249",2019-04-01,"œniadania i obiadokolacje","Rainbow","Costa del Sol","Marbella",8.1,"Marbella Playa",4,"258827",149,2214,2018-12-23
+"250",2019-05-04,"œniadania i obiadokolacje","Rainbow","Costa Brava","Santa Susanna",7.4,"H-TOP Royal Sun",4,"182694",227,2361,2018-12-23
+"251",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,8.2,"Hovima Santa Maria (Costa Adeje)",3,"491895",54,2389,2018-12-23
+"252",2019-03-04,"œniadania i obiadokolacje","Itaka","Fuerteventura","Caleta de Fuste",8.7,"Barcelo Fuerteventura",4,"442219",20,3319,2018-12-23
+"253",2019-05-18,"bez wy¿ywienia","Wezyr","Costa Brava","Santa Susanna",7.4,"H-TOP Royal Sun",4,"192548",227,1765,2018-12-23
+"254",2019-05-11,"œniadania i obiadokolacje","Rainbow","Wyc. objazdowe",NA,NA,"Hiszpañskie El Clasico",3,"258823",NA,2971,2018-12-23
+"255",2019-05-04,"All Inclusive","Rainbow","Costa Brava","Lloret de Mar",7.6,"Rosamar Garden Resort",4.5,"410338",NA,2730,2018-12-23
+"256",2019-05-04,"bez wy¿ywienia","Wezyr","Costa Brava","Santa Susanna",8.2,"Tahiti Playa",4,"226421",26,2030,2018-12-23
+"257",2019-05-11,"All Inclusive","Rainbow","Costa Brava","Pineda de Mar",8,"H TOP Pineda Palace",4,"199819",223,2530,2018-12-23
+"258",2019-05-14,"bez wy¿ywienia","Neckermann","Lanzarote","Playa Blanca",7.8,"THB Tropical Island",4,"418233",135,4329,2018-12-23
+"259",2019-05-14,"bez wy¿ywienia","Neckermann","Lanzarote","Playa Blanca",7.8,"THB Tropical Island",4,"418234",135,4515,2018-12-23
+"260",2019-04-08,"œniadania i obiadokolacje","Itaka","Wyc. objazdowe",NA,NA,"Baœnie tysi¹ca i 7 nocy",NA,"489235",NA,3099,2018-12-23
+"261",2019-03-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",8.6,"Palm Beach (Benidorm)",4,"494366",NA,1519,2018-12-23
+"262",2019-03-12,"trzy posi³ki","Prima Holiday","Costa Brava","Calella",7.9,"H-TOP Calella Palace & Spa",4,"502447",314,1699,2018-12-23
+"263",2019-05-21,"trzy posi³ki","Prima Holiday","Costa Brava","Calella",7.9,"H-TOP Calella Palace & Spa",4,"519915",314,1872,2018-12-23
+"264",2019-05-04,"œniadania i obiadokolacje","Wezyr","Costa Brava","Lloret de Mar",8.4,"Gran Garbi Mar",4,"338373",47,1910,2018-12-23
+"265",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Fuengirola",8.7,"Ipv Beatriz Palace & Spa (ex.Beatriz Palace)",4,"491662",NA,2199,2018-12-23
+"266",2019-05-11,"œniadania","Exim Tours","Costa del Sol","Fuengirola",8.7,"Ipv Beatriz Palace & Spa (ex.Beatriz Palace)",4,"510006",NA,2349,2018-12-23
+"267",2019-05-07,"Wszystko w cenie","Neckermann","Lanzarote","Costa Teguise",8.9,"Be Live Experience Lanzarote Beach (ex. Luabay)",4,"199387",31,4900,2018-12-23
+"268",2019-05-14,"Wszystko w cenie","Neckermann","Lanzarote","Costa Teguise",8.9,"Be Live Experience Lanzarote Beach (ex. Luabay)",4,"498716",31,5197,2018-12-23
+"269",2019-03-14,"œniadania i obiadokolacje","Itaka","Wyc. objazdowe",NA,NA,"Wyspy Szczêœliwe",NA,"503911",NA,3939,2018-12-23
+"270",2019-03-09,"œniadania","Exim Tours","Costa del Sol",NA,NA,"Bahia Tropical",4,"491823",NA,1599,2018-12-23
+"271",2019-05-11,"œniadania","Exim Tours","Costa del Sol",NA,NA,"Bahia Tropical",4,"509951",NA,1699,2018-12-23
+"272",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,7.7,"Vincci Tenerife Golf",4,"498833",46,2299,2018-12-23
+"273",2019-03-17,"œniadania i obiadokolacje","Ecco Holiday","Teneryfa","Callao Salvaje",6.7,"Blue Sea Callao Garden (ex Vime)",3,"435840",154,2673,2018-12-23
+"274",2019-03-02,"All Inclusive","Itaka","Lanzarote","Playa Blanca",7.8,"THB Tropical Island",4,"442042",135,3319,2018-12-23
+"275",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,8.5,"Gala Tenerife",4,"510409",109,2139,2018-12-23
+"276",2019-03-17,"œniadania","Exim Tours","Teneryfa",NA,8.5,"Gala Tenerife",4,"501249",109,2699,2018-12-23
+"277",2019-03-05,"bez wy¿ywienia","Ecco Holiday","Costa del Sol","Torremolinos",NA,"La Barracuda",3,"405747",NA,1431,2018-12-23
+"278",2019-05-14,"bez wy¿ywienia","Neckermann","Lanzarote","Puerto del Carmen",7.2,"THB Flora (Puerto del Carmen)",3.5,"477368",42,4011,2018-12-23
+"279",2019-05-14,"bez wy¿ywienia","Neckermann","Lanzarote","Puerto del Carmen",7.2,"Flora (Puerto del Carmen)",3.5,"477401",42,4119,2018-12-23
+"280",2019-05-14,"œniadania","Neckermann","Lanzarote","Puerto del Carmen",7.2,"THB Flora (Puerto del Carmen)",3.5,"477404",42,4383,2018-12-23
+"281",2019-05-14,"bez wy¿ywienia","Neckermann","Lanzarote","Puerto del Carmen",7.2,"THB Flora (Puerto del Carmen)",3.5,"473774",42,4617,2018-12-23
+"282",2019-05-05,"œniadania i obiadokolacje","Rainbow","Majorka","Playa de Muro",8.3,"Iberostar Albufera Park",4.5,"182214",NA,3700,2018-12-23
+"283",2019-04-13,"œniadania","Exim Tours","Teneryfa",NA,6.8,"El Tope",4,"518574",NA,1879,2018-12-23
+"284",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,6.8,"El Tope",4,"501302",NA,2179,2018-12-23
+"285",2019-03-02,"All Inclusive","Exim Tours","Costa Blanca","Benidorm",NA,"Sandos Monaco & Spa",4,"494436",NA,2259,2018-12-23
+"286",2019-04-02,"All Inclusive","Exim Tours","Costa Blanca","Benidorm",NA,"Sandos Monaco & Spa",4,"516958",NA,2349,2018-12-23
+"287",2019-05-07,"œniadania","Neckermann","Lanzarote","Playa Blanca",9.6,"Iberostar Lanzarote Park",5,"473647",NA,4991,2018-12-23
+"288",2019-05-07,"œniadania","Neckermann","Lanzarote","Playa Blanca",9.6,"Iberostar Lanzarote Park",5,"473698",NA,5153,2018-12-23
+"289",2019-05-07,"œniadania","Neckermann","Lanzarote","Playa Blanca",9.6,"Iberostar Lanzarote Park",5,"473648",NA,5312,2018-12-23
+"290",2019-05-07,"œniadania","Neckermann","Lanzarote","Playa Blanca",9.6,"Iberostar Lanzarote Park",5,"473603",NA,5375,2018-12-23
+"291",2019-05-07,"œniadania","Neckermann","Lanzarote","Playa Blanca",9.6,"Iberostar Lanzarote Park",5,"473699",NA,5521,2018-12-23
+"292",2019-05-07,"œniadania","Neckermann","Lanzarote","Playa Blanca",9.6,"Iberostar Lanzarote Park",5,"473602",NA,5568,2018-12-23
+"293",2019-03-28,"œniadania i obiadokolacje","Itaka","Teneryfa","Puerto de la Cruz",NA,"Concordia Playa",3.5,"489324",NA,2449,2018-12-23
+"294",2019-05-04,"All Inclusive","Itaka","Lanzarote","Puerto del Carmen",7.2,"THB Flora",4,"442075",42,3279,2018-12-23
+"295",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Rh Princesa",4,"516987",NA,1569,2018-12-23
+"296",2019-03-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Rh Princesa",4,"494369",NA,1589,2018-12-23
+"297",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,8.9,"La Siesta Tenerife (Playa de las Americas)",4,"518587",60,2399,2018-12-23
+"298",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,8.9,"La Siesta Tenerife (Playa de las Americas)",4,"498838",60,3289,2018-12-23
+"299",2019-03-16,"bez wy¿ywienia","Exim Tours","Fuerteventura",NA,6.5,"Alameda de Jandia",2,"498126",26,1589,2018-12-23
+"300",2019-03-12,"œniadania","Prima Holiday","Costa Brava","Lloret Del Mar",4.4,"Guitart Gold Central Park Resort & Spa",4,"516135",NA,1849,2018-12-23
+"301",2019-03-12,"trzy posi³ki","Prima Holiday","Costa Brava","Lloret Del Mar",4.4,"Guitart Gold Central Park Resort & Spa",4,"516837",NA,2062,2018-12-23
+"302",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Playa de la Arena",6.9,"Bahia Flamingo",3,"459178",78,2650,2018-12-23
+"303",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Playa de la Arena",6.9,"Bahia Flamingo",3,"501672",78,2834,2018-12-23
+"304",2019-04-21,"œniadania i obiadokolacje","Neckermann","Teneryfa","Puerto Santiago",6.9,"Bahia Flamingo",3,"490147",78,2954,2018-12-23
+"305",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Puerto Santiago",6.9,"Bahia Flamingo",3,"490641",78,3036,2018-12-23
+"306",2019-04-11,"œniadania","Exim Tours","Majorka","Magaluf",8,"Flamboyan Caribe",4,"514359",52,1819,2018-12-23
+"307",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Benalmadena Coast",8,"Best Triton",4,"491822",NA,1859,2018-12-23
+"308",2019-05-04,"œniadania","Exim Tours","Costa del Sol","Benalmadena Coast",8,"Best Triton",4,"509995",NA,1979,2018-12-23
+"309",2019-03-09,"œniadania","Exim Tours","Costa del Sol",NA,7.8,"Marinas de Nerja",4,"491828",NA,2089,2018-12-23
+"310",2019-04-20,"œniadania i obiadokolacje","Ecco Holiday","Teneryfa","Playa de las Americas",5,"Ponderosa",3,"436292",30,2560,2018-12-23
+"311",2019-04-08,"œniadania i obiadokolacje","Rainbow","Wyc. objazdowe",NA,NA,"Czas na Andaluzjê!",4,"469942",NA,2685,2018-12-23
+"312",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria",NA,9.2,"Dunas Don Gregory",4,"495449",90,3469,2018-12-23
+"313",2019-03-09,"œniadania","Exim Tours","Gran Canaria","Playa del Ingles",7.9,"Green Field",3,"491872",209,2049,2018-12-23
+"314",2019-04-04,"bez wy¿ywienia","Exim Tours","Costa Brava",NA,9.3,"Alegria Mar Mediterrania (ex Fergus Style)",4.5,"510495",73,1699,2018-12-23
+"315",2019-05-09,"œniadania i obiadokolacje","Itaka","Teneryfa","Puerto de la Cruz",NA,"Atlantic Mirage Suites & Spa (ex Bellavist)",4.5,"480632",NA,3179,2018-12-23
+"316",2019-03-12,"trzy posi³ki","Prima Holiday","Costa Brava","Calella",10,"H Top Amaika",4,"502881",35,1767,2018-12-23
+"317",2019-05-21,"trzy posi³ki","Prima Holiday","Costa Brava","Calella",10,"H Top Amaika",4,"519978",35,1987,2018-12-23
+"318",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,NA,"Concorde (Las Palmas)",4,"491873",NA,2239,2018-12-23
+"319",2019-03-28,"All Inclusive","Itaka","Teneryfa","Playa Paraiso",8.8,"Bahia Principe Tenerife",4.5,"441952",68,4209,2018-12-23
+"320",2019-03-11,"œniadania i obiadokolacje","Itaka","Costa del Sol","Benalmadena",7.8,"Bali",3,"442085",86,1859,2018-12-23
+"321",2019-05-04,"All Inclusive","Ecco Holiday","Teneryfa","Costa Adeje",9.3,"Villa Adeje Beach",3,"405692",87,2941,2018-12-23
+"322",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria","Playa del Ingles",6.9,"Corona Roja",3,"491656",NA,1399,2018-12-23
+"323",2019-05-23,"All Inclusive","Exim Tours","Majorka","S´illot",8.2,"Mix Colombo (ex. Catalonia)",3,"514966",264,1929,2018-12-23
+"324",2019-03-16,"œniadania i obiadokolacje","Exim Tours","Fuerteventura","Costa Calma",6,"Sotavento Beach Club",4,"498128",NA,2389,2018-12-23
+"325",2019-04-08,"œniadania i obiadokolacje","Rainbow","Wyc. objazdowe",NA,NA,"Andaluzyjska lista przebojów",4,"469943",NA,2714,2018-12-23
+"326",2019-03-20,"All Inclusive","Ecco Holiday","Teneryfa","Puerto de Santiago",8.2,"Globales Tamaimo Tropical",3,"455152",835,3289,2018-12-23
+"327",2019-04-29,"œniadania i obiadokolacje","Regent","Barcelona",NA,NA,"Majówka w Barcelonie",3,"227436",NA,2550,2018-12-23
+"328",2019-05-04,"œniadania i obiadokolacje","Ecco Holiday","Teneryfa","Puerto de la Cruz",8.4,"Gran Turquesa Playa",4,"362945",56,2576,2018-12-23
+"329",2019-04-29,"œniadania i obiadokolacje","Regent","Barcelona",NA,NA,"Majówka w Barcelonie",4,"261725",NA,2690,2018-12-23
+"330",2019-03-04,"œniadania i obiadokolacje","Itaka","Costa del Sol","Fuengirola",8.3,"Myramar",3.5,"467037",NA,2219,2018-12-23
+"331",2019-05-12,"All Inclusive","Itaka","Majorka","Cala Vinyes",8.8,"Occidental Cala Vinas (ex. Barcelo Cala Vinas)",4.5,"505736",32,2729,2018-12-23
+"332",2019-05-23,"œniadania i obiadokolacje","Exim Tours","Majorka","Cala d Or",7.2,"Primasol Cala D Or Garden",4,"515020",NA,1759,2018-12-23
+"333",2019-05-04,"œniadania","Wezyr","Costa Brava","Malgrat De Mar",8.1,"Reymar Playa",3,"270661",505,1763,2018-12-23
+"334",2019-03-16,"All Inclusive","Exim Tours","Fuerteventura","Caleta de Fuste",7.8,"Costa Caleta",3,"512928",683,2389,2018-12-23
+"335",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Benalmadena Coast",8.7,"Balmoral (Benalmadena)",2,"491786",101,1319,2018-12-23
+"336",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,6.5,"Marte",3,"509648",57,1589,2018-12-23
+"337",2019-05-12,"All Inclusive","Itaka","Majorka","Palmanova",7.9,"Aluasun Torrenova (ex. Marina Torrenova)",4,"505730",NA,2159,2018-12-23
+"338",2019-05-16,"bez wy¿ywienia","Rainbow","Fuerteventura","Corralejo",7.4,"Alisios Playa",2.5,"507200",NA,2300,2018-12-23
+"339",2019-05-11,"œniadania i obiadokolacje","Ecco Holiday","Teneryfa","Puerto de La Cruz",NA,"Concordia Playa",4,"357447",NA,2412,2018-12-23
+"340",2019-03-23,"œniadania","Exim Tours","Teneryfa",NA,8.6,"Jacaranda (Playa de Fanabe)",4,"498837",85,2599,2018-12-23
+"341",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria",NA,8.6,"Colina Mar Aparthotel",3,"491715",NA,2649,2018-12-23
+"342",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Puerto del Carmen",8.7,"Relaxia Lanzaplaya",3.5,"519607",NA,4552,2018-12-23
+"343",2019-05-14,"Wszystko w cenie","Neckermann","Lanzarote","Puerto del Carmen",8.7,"Relaxia Lanzaplaya",3.5,"500101",NA,5119,2018-12-23
+"344",2019-05-18,"bez wy¿ywienia","Wezyr","Costa Brava","Lloret de Mar",7.6,"Royal Star",4,"192536",62,1662,2018-12-23
+"345",2019-03-31,"œniadania i obiadokolacje","Rainbow","Teneryfa","Puerto de la Cruz",8.9,"The Be Live Adults Only Tenerife (ex Be Live Exper",4,"463728",256,2421,2018-12-23
+"346",2019-03-15,"œniadania i obiadokolacje","Itaka","Gran Canaria","Maspalomas",8.6,"Dunas Suites Villas",4,"442417",58,3449,2018-12-23
+"347",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,5.1,"Laguna Park I (Costa Adeje)",3,"499811",NA,2289,2018-12-23
+"348",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Teneryfa","Costa Adeje",5.1,"Laguna Park I (Costa Adeje)",3,"491903",NA,2459,2018-12-23
+"349",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Estepona",NA,"Elba Estepona Gran hotel and Thalasso Spa",5,"504011",NA,2819,2018-12-23
+"350",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,7.6,"Allegro Isora (ex. Barcelo Varadero)",4,"502182",201,2899,2018-12-23
+"351",2019-05-11,"œniadania","Exim Tours","Costa del Sol","Estepona",NA,"Elba Estepona Gran Hotel Thalasso & Spa",5,"510009",NA,2999,2018-12-23
+"352",2019-04-11,"Wszystko w cenie","Neckermann","Fuerteventura","Costa Calma",8,"Drago Park",4,"180971",450,3120,2018-12-23
+"353",2019-03-28,"œniadania i obiadokolacje","Rainbow","Fuerteventura","Jandia",9.4,"Iberostar Fuerteventura Palace",5,"180632",NA,3501,2018-12-23
+"354",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,9.4,"Lopesan Costa Meloneras Resort Spa",4,"499530",88,3629,2018-12-23
+"355",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,9.4,"Lopesan Costa Meloneras Resort Spa",4.5,"491957",88,4569,2018-12-23
+"356",2019-03-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",8.8,"Montesol (Benidorm)",3,"495039",NA,1529,2018-12-23
+"357",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Avenida Benidorm",4,"517543",NA,1759,2018-12-23
+"358",2019-03-05,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Avenida Benidorm",4,"494371",NA,1779,2018-12-23
+"359",2019-04-11,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Pajara- Playa Barca",8.3,"Melia Fuerteventura (ex Melia Gorriones)",4.5,"147799",90,3051,2018-12-23
+"360",2019-04-11,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Pajara- Playa Barca",8.3,"Melia Fuerteventura (ex Melia Gorriones)",4.5,"415723",90,3269,2018-12-23
+"361",2019-04-28,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Pajara- Playa Barca",8.3,"Melia Fuerteventura (ex Gorriones)",4,"489763",90,6251,2018-12-23
+"362",2019-04-28,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Pajara- Playa Barca",8.3,"Melia Fuerteventura (ex Gorriones)",4,"489764",90,6497,2018-12-23
+"363",2019-05-20,"œniadania i obiadokolacje","Rainbow","Andaluzja - Costa Almeria","Roquetas de Mar",7.5,"Playalinda",4,"182205",NA,2500,2018-12-23
+"364",2019-03-14,"All Inclusive","Rainbow","Fuerteventura","Jandia",8.6,"Iberostar Playa Gaviotas Park",4.5,"180620",NA,3520,2018-12-23
+"365",2019-04-02,"œniadania","Exim Tours","Costa del Sol","Benalmadena Coast",8.4,"Best Benalmadena",4,"509953",NA,1629,2018-12-23
+"366",2019-05-05,"All Inclusive","Exim Tours","Majorka","Palma Nova",8.7,"Globales Palmanova Palace",4,"514969",85,2039,2018-12-23
+"367",2019-05-11,"œniadania i obiadokolacje","Rainbow","Wyc. objazdowe",NA,NA,"Skarby Pó³nocnego Wybrze¿a",3,"203652",NA,2621,2018-12-23
+"368",2019-05-21,"œniadania i obiadokolacje","Itaka & Gala","Gran Canaria","Meloneras",9.4,"Lopesan Costa Meloneras",5,"442389",88,3729,2018-12-23
+"369",2019-05-18,"œniadania","Rainbow","Wyc. objazdowe","Barcelona",NA,"Uroki Morza Œródziemnego",3,"182577",NA,3249,2018-12-23
+"370",2019-05-14,"bez wy¿ywienia","Neckermann","Lanzarote","Costa Teguise",7.6,"Sands Beach",3.5,"423531",NA,3786,2018-12-23
+"371",2019-05-14,"bez wy¿ywienia","Neckermann","Lanzarote","Costa Teguise",7.6,"Sands Beach",3.5,"449312",NA,3881,2018-12-23
+"372",2019-05-14,"bez wy¿ywienia","Neckermann","Lanzarote","Costa Teguise",7.6,"Sands Beach",3.5,"423533",NA,3954,2018-12-23
+"373",2019-05-14,"œniadania","Neckermann","Lanzarote","Costa Teguise",7.6,"Sands Beach",3.5,"423623",NA,4643,2018-12-23
+"374",2019-05-11,"œniadania","Exim Tours","Costa del Sol","Marbella",8.1,"Marbella Playa",4,"509991",149,1749,2018-12-23
+"375",2019-05-18,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,8.2,"Hovima Jardin Caleta",3,"509656",52,1899,2018-12-23
+"376",2019-03-09,"bez wy¿ywienia","Exim Tours","Costa del Sol","Benalmadena Coast",NA,"Aparthotel Sunset Beach Club",4,"491795",NA,1629,2018-12-23
+"377",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Costa Adeje",8.4,"El Duque",4,"153094",NA,2965,2018-12-23
+"378",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Costa Adeje",8.4,"El Duque",4,"153068",NA,3114,2018-12-23
+"379",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Costa Adeje",8.4,"El Duque Aparthotel",3,"493103",NA,3941,2018-12-23
+"380",2019-05-18,"bez wy¿ywienia","Wezyr","Costa Brava","Pineda De Mar",8,"H TOP Pineda Palace",4,"192540",223,1765,2018-12-23
+"381",2019-04-23,"œniadania","Exim Tours","Costa Blanca","Benidorm",8.8,"Poseidon Playa",3.5,"516955",NA,1799,2018-12-23
+"382",2019-03-11,"œniadania","Itaka","Andaluzja","Granada",10,"Saray",4,"457467",NA,2239,2018-12-23
+"383",2019-05-18,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"Park Plaza & Tropical (Puerto de la Cruz)",3,"518593",NA,1389,2018-12-23
+"384",2019-03-09,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"Park Plaza & Tropical (Puerto de la Cruz)",3,"498581",NA,1439,2018-12-23
+"385",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Malaga",7.6,"Sol Guadalmar (ex. Tryp)",4,"498133",190,2099,2018-12-23
+"386",2019-05-06,"All Inclusive","Itaka","Fuerteventura","Costa Calma",8,"Club Drago Park",4,"442034",450,2899,2018-12-23
+"387",2019-05-18,"All Inclusive","Itaka","Lanzarote","Playa Blanca",8.4,"The Mirador Papagayo",4.5,"442048",37,3279,2018-12-23
+"388",2019-05-14,"bez wy¿ywienia","Neckermann","Lanzarote","Puerto del Carmen",NA,"Lanzarote Palm",3.5,"500081",NA,4064,2018-12-23
+"389",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Puerto del Carmen",8.6,"Lanzarote Village",4,"449313",38,4558,2018-12-23
+"390",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Puerto del Carmen",8.6,"Lanzarote Village",4,"423796",38,5414,2018-12-23
+"391",2019-05-16,"All Inclusive","Rainbow","Fuerteventura","Costa de Antigua",6.8,"Costa Tropical",3.5,"180619",197,2631,2018-12-23
+"392",2019-03-16,"All Inclusive","Itaka","Lanzarote","Puerto del Carmen",8.1,"Morromar",3.5,"442413",46,2899,2018-12-23
+"393",2019-05-18,"œniadania","Wezyr","Costa Brava","Pineda De Mar",9,"Sorrabona",3,"280922",NA,2013,2018-12-23
+"394",2019-03-09,"bez wy¿ywienia","Exim Tours","Costa del Sol","Fuengirola",NA,"Pyr Fuengirola Apartamenty",3,"491782",NA,1419,2018-12-23
+"395",2019-05-16,"All Inclusive","Rainbow","Fuerteventura","Morro Jable",8.7,"Altamarena",4,"507173",NA,2999,2018-12-23
+"396",2019-04-05,"œniadania i obiadokolacje","Neckermann","Gran Canaria","San Agustin",8.8,"Gloria Palace San Agustin",4,"420205",35,3395,2018-12-23
+"397",2019-04-02,"œniadania i obiadokolacje","Exim Tours","Costa Blanca","Benidorm",NA,"Camposol (Benidorm)",2,"517465",NA,1269,2018-12-23
+"398",2019-03-02,"œniadania i obiadokolacje","Exim Tours","Costa Blanca","Benidorm",NA,"Camposol (Benidorm)",2,"494367",NA,1329,2018-12-23
+"399",2019-05-04,"œniadania i obiadokolacje","Wezyr","Costa Brava","Lloret de Mar",8.3,"Evenia Olympic Park",4,"316782",374,2257,2018-12-23
+"400",2019-05-11,"All Inclusive","Rainbow","Costa Brava","Malgrat de Mar",7.9,"Sorra Daurada Splash",4,"463643",24,2449,2018-12-23
+"401",2019-03-21,"œniadania","Itaka","Teneryfa","Santa Cruz de Tenerife",NA,"Barcelo Santa Cruz Contemporaneo",4,"467205",NA,2539,2018-12-23
+"402",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Costa Teguise",9.2,"H10 Lanzarote Gardens",4,"199399",NA,4779,2018-12-23
+"403",2019-05-18,"bez wy¿ywienia","Wezyr","Costa Brava","Lloret de Mar",5.2,"H Top Alexis",3,"377062",165,1560,2018-12-23
+"404",2019-03-23,"œniadania","Ecco Holiday","Gran Canaria","Playa del Inglés",8.5,"Ifa Buenaventura",3,"215841",308,2732,2018-12-23
+"405",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Fuengirola",6.1,"Monarque Fuengirola Park",4,"512079",NA,1489,2018-12-23
+"406",2019-03-05,"œniadania","Ecco Holiday","Costa del Sol","Torremolinos",8,"Blue Sea Gran Cervantes",4,"441202",148,1729,2018-12-23
+"407",2019-04-02,"bez wy¿ywienia","Exim Tours","Costa Blanca","Alicante",NA,"Albahia Alicante",3,"516771",NA,1289,2018-12-23
+"408",2019-05-11,"œniadania","Wezyr","Costa Brava","Lloret de Mar",7.8,"Samba",3,"149237",2180,1907,2018-12-23
+"409",2019-05-18,"œniadania","Wezyr","Costa Brava","Blanes",8.4,"Blaumar (Blanes)",4,"515005",NA,2133,2018-12-23
+"410",2019-03-21,"œniadania","Itaka","Teneryfa","Puerto de la Cruz",NA,"Sol Costa Atlantis (ex. Beatriz Atlantis & Spa)",4,"467254",NA,3689,2018-12-23
+"411",2019-03-07,"œniadania","Itaka & Gala","Teneryfa","Costa Adeje",8.9,"Costa Adeje Gran",5,"441961",21,4159,2018-12-23
+"412",2019-04-02,"œniadania","Exim Tours","Costa Blanca",NA,NA,"SH Ifach",4,"516817",NA,1699,2018-12-23
+"413",2019-03-05,"œniadania","Exim Tours","Costa Blanca",NA,NA,"RH Ifach",4,"502136",NA,1739,2018-12-23
+"414",2019-05-11,"œniadania","Wezyr","Costa Brava","Blanes",7.9,"Esplendid",3,"439643",52,1984,2018-12-23
+"415",2019-05-11,"bez wy¿ywienia","Wezyr","Costa Brava","Lloret de Mar",9.2,"Xaine Park",4,"204658",NA,1763,2018-12-23
+"416",2019-05-05,"All Inclusive","Rainbow","Majorka","Cala Millor",7.6,"Palia Sa Coma Playa",4,"259195",32,2731,2018-12-23
+"417",2019-03-05,"œniadania","Ecco Holiday","Costa del Sol","Benalmadena",9.4,"Las Arenas",4,"215774",NA,2068,2018-12-23
+"418",2019-03-29,"All Inclusive","Rainbow","Gran Canaria","Playa del Ingles",6.8,"Labranda Bronze Playa (ex. Broncemar)",4,"359561",22,2749,2018-12-23
+"419",2019-03-21,"œniadania i obiadokolacje","Itaka","Teneryfa","Costa Adeje",8.6,"Melia Jardines del Teide",5,"467227",NA,4939,2018-12-23
+"420",2019-05-04,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Blue Sea Calas Marina",3,"516773",NA,1439,2018-12-23
+"421",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Torrox",NA,"Iberostar Malaga Playa",4,"492007",NA,2169,2018-12-23
+"422",2019-05-21,"œniadania i obiadokolacje","Itaka & Gala","Gran Canaria","Puerto Rico",9.5,"Gloria Palace Royal",5,"442391",42,3529,2018-12-23
+"423",2019-04-11,"Wszystko w cenie","Neckermann","Fuerteventura","Jandia",9.3,"Iberostar Playa Gaviotas",4,"20394",NA,4190,2018-12-23
+"424",2019-03-28,"Wszystko w cenie","Neckermann","Fuerteventura","Jandia",9.3,"Iberostar Playa Gaviotas",4,"223122",NA,4778,2018-12-23
+"425",2019-03-28,"Wszystko w cenie","Neckermann","Fuerteventura","Jandia",9.3,"Iberostar Playa Gaviotas",4,"172713",NA,6262,2018-12-23
+"426",2019-04-11,"Wszystko w cenie","Neckermann","Fuerteventura","Jandia",9.3,"Iberostar Playa Gaviotas",4,"370688",NA,7298,2018-12-23
+"427",2019-05-07,"bez wy¿ywienia","Exim Tours","Costa Brava","Lloret de Mar",9.2,"Xaine Park",4,"510438",NA,1399,2018-12-23
+"428",2019-03-23,"trzy posi³ki","Prima Holiday","Costa Blanca","Benidorm",8.1,"Gran Hotel Bali",4,"513947",345,1934,2018-12-23
+"429",2019-03-09,"bez wy¿ywienia","Exim Tours","Costa del Sol","Benalmadena Coast",NA,"Holiday Polynesia",4,"491788",NA,1359,2018-12-23
+"430",2019-03-09,"œniadania","Exim Tours","Costa del Sol",NA,NA,"Bahia Almunecar",4,"491796",NA,1559,2018-12-23
+"431",2019-05-04,"œniadania","Wezyr","Costa Brava","Malgrat De Mar",8.2,"Tropic Park",4,"437796",173,1915,2018-12-23
+"432",2019-05-06,"œniadania i obiadokolacje","Rainbow","Andaluzja - Costa Almeria","Aguadulce",6.7,"Playadulce",4,"182216",61,2149,2018-12-23
+"433",2019-05-18,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"Regency Country Club",4,"518589",NA,2899,2018-12-23
+"434",2019-03-09,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"Regency Country Club",4,"491906",NA,3719,2018-12-23
+"435",2019-03-16,"All Inclusive","Exim Tours","Fuerteventura","Corralejo",NA,"Suite Atlantis Fuerteventura Resort Be Live",4,"512930",NA,3399,2018-12-23
+"436",2019-04-02,"œniadania i obiadokolacje","Exim Tours","Costa del Sol","Torremolinos",7.6,"Puente Real",4,"509994",31,1869,2018-12-23
+"437",2019-03-17,"œniadania","Exim Tours","Teneryfa",NA,7,"Trianflor",4,"491891",NA,1949,2018-12-23
+"438",2019-05-12,"All Inclusive","Itaka","Majorka","Portocolom",7.1,"BelleVue Belsana",3,"505726",257,1999,2018-12-23
+"439",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,7,"Trianflor",4,"518580",NA,2169,2018-12-23
+"440",2019-03-20,"œniadania","Ecco Holiday","Teneryfa","Puerto de la Cruz",3.9,"Globales Acuario",2,"480873",154,2231,2018-12-23
+"441",2019-05-13,"œniadania i obiadokolacje","Itaka","Fuerteventura","El Cotillo",8,"Cotillo Beach",3,"467116",NA,2419,2018-12-23
+"442",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria",NA,3.3,"Marina Elite",3,"491718",NA,3199,2018-12-23
+"443",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria",NA,3.3,"Marina Elite",3,"491717",NA,3239,2018-12-23
+"444",2019-05-14,"Wszystko w cenie","Neckermann","Lanzarote","Puerto del Carmen",9.8,"Aequora Lanzarote Suites (ex. Sentido)",4,"314283",87,5661,2018-12-23
+"445",2019-03-09,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,5.4,"Royal Park Albatros",3,"491820",NA,1779,2018-12-23
+"446",2019-05-04,"œniadania","Wezyr","Costa Brava","Lloret de Mar",7.3,"Surf Mar",4,"149850",NA,1941,2018-12-23
+"447",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria",NA,NA,"Principado",3,"491874",NA,2499,2018-12-23
+"448",2019-05-12,"œniadania i obiadokolacje","Rainbow","Teneryfa","Costa Adeje",8.5,"Fanabe Costa Sur",4,"192423",31,2950,2018-12-23
+"449",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Playa Paraiso",8.8,"Bahia Principe Tenerife",4,"199332",68,3876,2018-12-23
+"450",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Playa Paraiso",8.8,"Bahia Principe Tenerife (Playa Paraiso)",4,"495256",68,4246,2018-12-23
+"451",2019-03-14,"œniadania","Itaka & Gala","Teneryfa","Playa de Fanabe",9.7,"Dream Gran Tacande",5,"441960",NA,5649,2018-12-23
+"452",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",8.6,"Jacaranda",4,"369071",85,2740,2018-12-23
+"453",2019-05-21,"œniadania i obiadokolacje","Itaka","Gran Canaria","Puerto Rico",9.3,"Gloria Palace Amadores",4.5,"442220",28,3279,2018-12-23
+"454",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Puerto del Carmen",8.9,"Floresta",3.5,"423535",20,4363,2018-12-23
+"455",2019-03-21,"All Inclusive","Itaka","Teneryfa","San Miguel de Abona",NA,"Fantasia Bahia Principe Tenerife",5,"491479",NA,4919,2018-12-23
+"456",2019-05-16,"œniadania","Prima Holiday","Majorka","Can Pastilla",8.1,"Marbel (Can Pastilla)",3,"521898",NA,1591,2018-12-23
+"457",2019-03-24,"œniadania","Prima Holiday","Majorka","Can Pastilla",8.1,"Marbel (Can Pastilla)",3,"518466",NA,1759,2018-12-23
+"458",2019-05-12,"All Inclusive","Prima Holiday","Majorka","Arenal",6.5,"Caribbean Bay (ex. Saga)",3,"519976",NA,1911,2018-12-23
+"459",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,8.7,"Axel Beach",4,"491871",NA,2199,2018-12-23
+"460",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Puerto de la Cruz",NA,"Las Aguilas",4,"180264",NA,2858,2018-12-23
+"461",2019-05-06,"œniadania i obiadokolacje","Rainbow","Wyc. objazdowe",NA,8.6,"Hiszpania - Od Andalus do Andaluzji",3,"181595",NA,2999,2018-12-23
+"462",2019-03-03,"œniadania i obiadokolacje","Neckermann","Teneryfa","Puerto de la Cruz",NA,"Las Aguilas",4,"493283",NA,3539,2018-12-23
+"463",2019-05-12,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",8.4,"Gran Turquesa Playa",4,"353380",56,2724,2018-12-23
+"464",2019-04-21,"œniadania i obiadokolacje","Neckermann","Teneryfa","Puerto de la Cruz",8.4,"Gran Turquesa Playa",4,"490509",56,3008,2018-12-23
+"465",2019-05-04,"All Inclusive","Ecco Holiday","Teneryfa","San Miguel de Abona",7.6,"Aguamarina Golf",4,"296405",NA,3312,2018-12-23
+"466",2019-03-07,"œniadania","Itaka & Gala","Teneryfa","Alcala De Isora",10,"Gran Melia Palacio",5,"441943",NA,4459,2018-12-23
+"467",2019-05-04,"All Inclusive","Rainbow","Costa Brava","Santa Susanna",4.5,"H-TOP Royal Sun Suite",4,"340268",NA,2629,2018-12-23
+"468",2019-05-05,"œniadania i obiadokolacje","Rainbow","Teneryfa","Playa de las Americas",8.9,"La Siesta Tenerife (Playa de las Americas)",4,"507156",60,3131,2018-12-23
+"469",2019-03-28,"œniadania i obiadokolacje","Itaka","Teneryfa","Puerto de la Cruz",9.3,"Bahia Principe San Felipe",4,"441953",107,3179,2018-12-23
+"470",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"RH Victoria",4,"516979",NA,1559,2018-12-23
+"471",2019-03-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"RH Victoria",4,"494370",NA,1579,2018-12-23
+"472",2019-05-16,"œniadania i obiadokolacje","Rainbow","Fuerteventura","Costa Calma",9.3,"SBH Costa Calma Palace",4,"180584",NA,2845,2018-12-23
+"473",2019-03-13,"œniadania i obiadokolacje","Ecco Holiday","Teneryfa","Costa Adeje",8.1,"Troya Tenerife",4,"218747",77,3787,2018-12-23
+"474",2019-05-03,"œniadania","Rainbow","Gran Canaria","Meloneras",9.4,"Lopesan Costa Meloneras Resort Spa",4.5,"492727",88,3045,2018-12-23
+"475",2019-05-07,"œniadania","Neckermann","Lanzarote","Puerto del Carmen",9.7,"Seaside Los Jameos",4.5,"199392",NA,3202,2018-12-23
+"476",2019-05-03,"œniadania","Rainbow","Gran Canaria","Maspalomas",8.7,"Lopesan Baobab Resort",5,"192445",NA,3564,2018-12-23
+"477",2019-05-14,"Wszystko w cenie","Neckermann","Lanzarote","Puerto del Carmen",7.3,"Sol Lanzarote",3.5,"372752",NA,5182,2018-12-23
+"478",2019-05-18,"bez wy¿ywienia","Wezyr","Costa Brava","Lloret de Mar",6.5,"Royal Beach",4,"192537",60,1662,2018-12-23
+"479",2019-05-05,"All Inclusive","Itaka","Majorka","Can Picafort",7.2,"Ilusion Markus Park & Spa",3,"505724",NA,1959,2018-12-23
+"480",2019-05-18,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,7.1,"El Medano",3,"522486",47,2059,2018-12-23
+"481",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,7.1,"El Medano",3,"491901",47,2279,2018-12-23
+"482",2019-05-12,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",8.7,"Puerto de la Cruz (ex: Sol Melia Puerto de la Cruz",4,"494657",153,2592,2018-12-23
+"483",2019-04-05,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Playa del Inglés",6.9,"Corona Roja",2,"498689",NA,2765,2018-12-23
+"484",2019-04-05,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Playa del Inglés",6.9,"Corona Roja",2,"498692",NA,2945,2018-12-23
+"485",2019-03-29,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Playa del Inglés",6.9,"Corona Roja",2,"498690",NA,2949,2018-12-23
+"486",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria",NA,8.6,"Dunas Suites & Villas",4,"495448",58,3399,2018-12-23
+"487",2019-05-07,"œniadania i obiadokolacje","Itaka & Gala","Gran Canaria","Maspalomas",8.7,"Lopesan Baobab Resort",5,"442392",NA,3749,2018-12-23
+"488",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Playa Paraiso",9.8,"Bahia Principe Costa Adeje",4.5,"199330",63,3949,2018-12-23
+"489",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Playa Paraiso",9.8,"Bahia Principe Costa Adeje",4.5,"495445",63,4291,2018-12-23
+"490",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Torremolinos",NA,"Costa del Sol Torremolinos Luxury Boutique",3,"492006",NA,1969,2018-12-23
+"491",2019-04-13,"œniadania","Exim Tours","Teneryfa",NA,9.2,"San Borondon",3,"509730",NA,1989,2018-12-23
+"492",2019-03-28,"bez wy¿ywienia","Neckermann","Fuerteventura","Caleta de Fuste",8.8,"Castillo San Jorge & Antigua",3,"353202",31,2247,2018-12-23
+"493",2019-03-23,"All Inclusive","Ecco Holiday","Gran Canaria","Maspalomas",NA,"Bungalows Vista Oasis",2,"476979",NA,2762,2018-12-23
+"494",2019-05-09,"œniadania i obiadokolacje","Itaka","Teneryfa","Playa de las Americas",8.9,"La Siesta",4,"441949",60,2999,2018-12-23
+"495",2019-03-28,"Wszystko w cenie","Neckermann","Fuerteventura","Caleta de Fuste",8.8,"smartline Castillo de Antigua",3,"353191",31,3216,2018-12-23
+"496",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Puerto de la Cruz",9.3,"Bahia Principe San Felipe",4.5,"272737",107,3256,2018-12-23
+"497",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Puerto de la Cruz",9.3,"Sunlight Bahia Principe San Felipe",4.5,"495255",107,3620,2018-12-23
+"498",2019-04-28,"bez wy¿ywienia","Neckermann","Fuerteventura","Caleta de Fuste",8.8,"Castillo San Jorge & Antigua",3,"353288",31,4719,2018-12-23
+"499",2019-04-28,"bez wy¿ywienia","Neckermann","Fuerteventura","Caleta de Fuste",8.8,"Castillo San Jorge & Antigua",3,"353571",31,5202,2018-12-23
+"500",2019-05-18,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,6.5,"Paraiso Del Sol (Playa de las Americas)",2,"509654",NA,1619,2018-12-23
+"501",2019-03-17,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,6.5,"Paraiso Del Sol (Playa de las Americas)",2,"491885",NA,1779,2018-12-23
+"502",2019-03-17,"bez wy¿ywienia","Exim Tours","Teneryfa","Playa de Las Americas",6.5,"Paraiso Del Sol (Playa de las Americas)",2,"491657",NA,1799,2018-12-23
+"503",2019-05-04,"bez wy¿ywienia","Wezyr","Costa Brava","Calella",NA,"Bernat II",4,"280850",NA,1865,2018-12-23
+"504",2019-05-04,"œniadania i obiadokolacje","Rainbow","Costa Brava","Malgrat de Mar",7.9,"Papi",3.5,"311388",85,2030,2018-12-23
+"505",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Playa de las Americas",NA,"Parque Santiago IV",3,"504207",NA,2587,2018-12-23
+"506",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Playa de las Americas",NA,"Parque Santiago IV",3,"504208",NA,2943,2018-12-23
+"507",2019-03-18,"œniadania i obiadokolacje","Itaka","Wyc. objazdowe",NA,NA,"Tapas por favor",NA,"489236",NA,3129,2018-12-23
+"508",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Playa de las Americas",NA,"Parque Santiago",3,"504369",NA,3321,2018-12-23
+"509",2019-04-15,"œniadania","Rainbow","Costa del Sol","Marbella",NA,"Iberostar Marbella Coral Beach",4,"524029",NA,3546,2018-12-23
+"510",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Playa de las Americas",NA,"Parque Santiago",3,"504370",NA,3748,2018-12-23
+"511",2019-05-12,"œniadania","Neckermann","Teneryfa","Playa de las Americas",8.9,"La Siesta",4,"370679",60,2885,2018-12-23
+"512",2019-05-06,"All Inclusive","Rainbow","Andaluzja - Costa Almeria","Roquetas de Mar",NA,"Protur Roquetas & Spa",5,"203600",NA,3250,2018-12-23
+"513",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,8.1,"Alexandre Troya (Playa de las Americas)",4,"498593",77,3279,2018-12-23
+"514",2019-05-11,"œniadania","Exim Tours","Teneryfa",NA,8.3,"Hard Rock Tenerife",5,"509748",NA,4249,2018-12-23
+"515",2019-03-17,"œniadania","Exim Tours","Teneryfa",NA,8.3,"Hard Rock Tenerife",5,"498841",NA,5299,2018-12-23
+"516",2019-03-23,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Queens (Benidorm)",2,"494363",NA,1549,2018-12-23
+"517",2019-05-14,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Queens (Benidorm)",2,"517557",NA,1649,2018-12-23
+"518",2019-05-11,"œniadania","Rainbow","Costa Brava","Santa Susanna",8.9,"Aquamarina (Santa Susanna)",4,"410281",29,2099,2018-12-23
+"519",2019-05-05,"All Inclusive","Rainbow","Majorka","Palmanova",6.6,"Globales Mimosa (ex Hi! Mimosa Park)",4,"340008",68,2352,2018-12-23
+"520",2019-04-21,"bez wy¿ywienia","Neckermann","Teneryfa","Costa del Silencio",6.9,"Annapurna Tenerife (ex Alborada Beach Club)",3,"515693",400,2720,2018-12-23
+"521",2019-05-13,"All Inclusive ultra","Itaka","Costa de la Luz","Punta Umbria",7.6,"Barcelo Punta Umbria Beach Resort",4.5,"466756",24,2809,2018-12-23
+"522",2019-03-01,"Wszystko w cenie","Neckermann","Gran Canaria","Playa Taurito",8.1,"Paradise Lago Taurito",3.5,"20891",517,3574,2018-12-23
+"523",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Puerto de Santiago",8.8,"Be Live Experience Playa La Arena",4,"495221",1577,3803,2018-12-23
+"524",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Puerto Santiago",8.8,"Be Live Experience Playa La Arena",4,"490329",1577,4452,2018-12-23
+"525",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Puerto Santiago",8.8,"Be Live Experience Playa La Arena",4,"490328",1577,4452,2018-12-23
+"526",2019-04-02,"All Inclusive","Exim Tours","Costa del Sol","Torremolinos",7.5,"Parasol Garden",3,"513758",NA,1999,2018-12-23
+"527",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Puerto de la Cruz",8.9,"Be Live Adults Only Tenerife (ex. Experience Tenerife)",4,"228173",256,2746,2018-12-23
+"528",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Puerto de la Cruz",8.9,"The Be Live Adults Only Tenerife (ex Be Live Exper",4,"495244",256,3471,2018-12-23
+"529",2019-04-05,"All Inclusive","Rainbow","Gran Canaria","Maspalomas",NA,"Dunas Maspalomas",4,"482034",NA,3971,2018-12-23
+"530",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,NA,"Parquemar",2,"491671",NA,1999,2018-12-23
+"531",2019-05-14,"œniadania i obiadokolacje","Itaka","Gran Canaria","Playa del Ingles",8.5,"Beverly Park",3,"442083",277,2559,2018-12-23
+"532",2019-05-21,"œniadania i obiadokolacje","Itaka","Gran Canaria","Playa del Ingles",5.9,"Rebecca Park",3,"467159",36,2569,2018-12-23
+"533",2019-04-04,"Wszystko w cenie","Neckermann","Fuerteventura","Costa Calma",7.8,"Fuerteventura Playa",4,"353190",260,3567,2018-12-23
+"534",2019-05-04,"All Inclusive","Itaka & Gala","Lanzarote","Playa Blanca",9.6,"Dream Gran Castillo",5,"442228",NA,4189,2018-12-23
+"535",2019-03-05,"œniadania","Ecco Holiday","Costa del Sol","Torremolinos",8.8,"Los Arcos Montemar",3,"20701",NA,1375,2018-12-23
+"536",2019-03-31,"œniadania","Rainbow","Teneryfa","Puerto de la Cruz",9.4,"Best Semiramis",4.5,"500195",48,2700,2018-12-23
+"537",2019-05-13,"œniadania i obiadokolacje","Rainbow","Costa del Sol","Benalmadena",8.7,"Best Siroco",4,"467956",21,2750,2018-12-23
+"538",2019-04-20,"œniadania i obiadokolacje","Ecco Holiday","Teneryfa","La Caleta",8.2,"Hovima Jardin Caleta",3,"405706",52,3137,2018-12-23
+"539",2019-03-23,"œniadania","Exim Tours","Fuerteventura","Corralejo",8,"H10 Ocean Dunas Only Adults (ex. Atlantis Dunapark)",4,"498127",NA,3399,2018-12-23
+"540",2019-03-14,"Wszystko w cenie","Neckermann","Fuerteventura","Jandia",8.7,"Buganvilla",4,"21491",NA,3457,2018-12-23
+"541",2019-03-07,"œniadania","Neckermann","Fuerteventura","Corralejo",7.8,"Gran Atlantis Bahia Real",5,"415740",NA,4717,2018-12-23
+"542",2019-03-21,"œniadania","Neckermann","Fuerteventura","Corralejo",7.8,"Gran Atlantis Bahia Real",5,"415717",NA,5182,2018-12-23
+"543",2019-03-28,"œniadania","Neckermann","Fuerteventura","Corralejo",7.8,"Gran Atlantis Bahia Real",5,"415718",NA,9044,2018-12-23
+"544",2019-04-02,"œniadania i obiadokolacje","Exim Tours","Costa Blanca","Benidorm",NA,"Benilux Park",3,"517589",NA,1549,2018-12-23
+"545",2019-03-02,"œniadania i obiadokolacje","Exim Tours","Costa Blanca","Benidorm",NA,"Benilux Park",3,"494372",NA,1619,2018-12-23
+"546",2019-05-18,"œniadania","Wezyr","Costa Brava","Lloret de Mar",NA,"Checkin Victoria (Lloret De Mar)",3,"478908",NA,1775,2018-12-23
+"547",2019-04-11,"bez wy¿ywienia","Neckermann","Fuerteventura","Corralejo",9,"Hesperia Bristol Playa",3,"499950",NA,2452,2018-12-23
+"548",2019-04-04,"Wszystko w cenie","Neckermann","Fuerteventura","Jandia",8.1,"Melia Sol Jandia Mar",3,"353188",161,2958,2018-12-23
+"549",2019-05-06,"œniadania i obiadokolacje","Rainbow","Wyc. objazdowe",NA,NA,"Portugalia i Hiszpania - pó³ na pó³",3,"182713",NA,3231,2018-12-23
+"550",2019-05-21,"œniadania","Exim Tours","Costa Brava","Lloret de Mar",5.8,"Gran Hotel Flamingo (Lloret de Mar)",4,"510433",NA,1369,2018-12-23
+"551",2019-03-05,"œniadania i obiadokolacje","Ecco Holiday","Costa del Sol","Fuengirola",6.1,"Fuengirola Park",4,"215777",NA,1665,2018-12-23
+"552",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Costa del Sol","Torremolinos",7.7,"Medplaya Pez Espada",4,"491825",NA,1799,2018-12-23
+"553",2019-05-11,"œniadania i obiadokolacje","Exim Tours","Costa del Sol","Torremolinos",7.7,"Medplaya Pez Espada",4,"510007",NA,2179,2018-12-23
+"554",2019-05-06,"œniadania","Rainbow","Costa de la Luz","Islantilla",NA,"Puerto Antilla Grand",4.5,"311329",NA,2649,2018-12-23
+"555",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria",NA,8.1,"Eugenia Victoria",3,"491938",NA,3029,2018-12-23
+"556",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria","Playa del Ingles",8.1,"Eugenia Victoria",3,"491953",NA,3039,2018-12-23
+"557",2019-04-29,"All Inclusive","Itaka & Gala","Fuerteventura","Tarajalejo",8.5,"R2 Romantic Fantasia",4,"442135",NA,3499,2018-12-23
+"558",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Playa Blanca",7.2,"Hesperia (Playa Dorada)",4,"265641",NA,4396,2018-12-23
+"559",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Playa Blanca",7.2,"Hesperia (Playa Dorada)",4,"449324",NA,4643,2018-12-23
+"560",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Playa Blanca",7.2,"Hesperia Playa Dorada",4,"425009",NA,4708,2018-12-23
+"561",2019-04-25,"œniadania","Itaka & Gala","Teneryfa","Puerto de la Cruz",9.6,"Botanico & The Oriental Spa Garden",5,"441955",NA,4959,2018-12-23
+"562",2019-03-28,"œniadania","Exim Tours","Costa Brava",NA,7.9,"Aqua Onabrava & Spa",4,"515231",NA,1449,2018-12-23
+"563",2019-05-11,"œniadania","Wezyr","Costa Brava","Pineda De Mar",9.6,"Aqua Promenade",4,"187750",NA,1932,2018-12-23
+"564",2019-05-05,"All Inclusive","Rainbow","Majorka","S'Illot",8.2,"Mix Colombo (ex. Catalonia)",3,"462870",264,2200,2018-12-23
+"565",2019-05-11,"œniadania i obiadokolacje","Rainbow","Costa Brava","Tossa de Mar",9.3,"Golden Bahia de Tossa",4.5,"182702",NA,2599,2018-12-23
+"566",2019-05-04,"œniadania i obiadokolacje","Itaka","Lanzarote","Puerto del Carmen",8.2,"Beatriz Playa & Spa",4,"442084",247,2729,2018-12-23
+"567",2019-05-06,"œniadania i obiadokolacje","Rainbow","Costa del Sol","Estepona",NA,"Iberostar Suites Costa del Sol",4.5,"311397",NA,3030,2018-12-23
+"568",2019-05-18,"œniadania i obiadokolacje","Ecco Holiday","Teneryfa","Costa Adeje",9.3,"Hovima Costa Adeje (ex Luabay)",4,"405761",57,3312,2018-12-23
+"569",2019-05-18,"œniadania","Wezyr","Costa Brava","Tossa De Mar",NA,"GHT Costa Brava",3,"226400",NA,1847,2018-12-23
+"570",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,NA,"Astoria (Las Palmas)",3,"491876",NA,2249,2018-12-23
+"571",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,NA,"Astoria (Las Palmas)",3,"491877",NA,2259,2018-12-23
+"572",2019-05-12,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",7.8,"Don Manolito",3,"353484",121,2493,2018-12-23
+"573",2019-04-21,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",7.8,"Don Manolito",3,"494214",121,2752,2018-12-23
+"574",2019-04-01,"œniadania i obiadokolacje","Rainbow","Wyc. objazdowe",NA,NA,"Iberyjskie po³udnie",4,"469945",NA,2785,2018-12-23
+"575",2019-05-11,"œniadania i obiadokolacje","Rainbow","Wyc. objazdowe",NA,NA,"Katedry i Pa³ace Hiszpanii",3,"182578",NA,3050,2018-12-23
+"576",2019-05-06,"œniadania i obiadokolacje","Rainbow","Wyc. objazdowe",NA,10,"Andaluzja warta zobaczenia",3,"224981",NA,3214,2018-12-23
+"577",2019-05-12,"All Inclusive","Rainbow","Teneryfa","Costa Adeje",8.7,"Iberostar Las Dalias",4,"202377",38,3600,2018-12-23
+"578",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Playa de las Americas",9.6,"Bitacora (Playa de las Americas)",4,"453036",NA,3623,2018-12-23
+"579",2019-04-23,"œniadania i obiadokolacje","Exim Tours","Costa Brava","Lloret de Mar",8.4,"Gran Garbi Mar",4,"522530",47,1589,2018-12-23
+"580",2019-05-18,"bez wy¿ywienia","Exim Tours","Teneryfa",NA,NA,"Paradero",2,"509646",NA,1619,2018-12-23
+"581",2019-05-18,"œniadania","Wezyr","Costa Brava","Santa Susanna",7.9,"Riviera (Santa Susanna)",3,"313704",51,1812,2018-12-23
+"582",2019-05-11,"œniadania","Wezyr","Costa Brava","Santa Susanna",NA,"Aqua Montagut",4,"204421",NA,1856,2018-12-23
+"583",2019-05-18,"œniadania","Wezyr","Costa Brava","Tossa De Mar",8,"Oasis Tossa",4,"226399",NA,1878,2018-12-23
+"584",2019-05-18,"œniadania i obiadokolacje","Rainbow","Costa Brava","Santa Susanna",7.9,"Riviera (Santa Susanna)",4,"512016",51,2020,2018-12-23
+"585",2019-05-18,"œniadania i obiadokolacje","Exim Tours","Teneryfa",NA,9.3,"Hovima Costa Adeje (ex Luabay)",4,"509747",57,2699,2018-12-23
+"586",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,NA,"Suite Jardin Dorado",4,"491926",NA,2699,2018-12-23
+"587",2019-03-14,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Costa Calma - Pajara",6,"Sotavento Beach Club",4,"199340",NA,3300,2018-12-23
+"588",2019-05-06,"œniadania","Itaka & Gala","Fuerteventura","Caleta de Fuste",9.2,"Sheraton Fuerteventura",5,"442229",NA,3569,2018-12-23
+"589",2019-03-28,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Costa Calma - Pajara",6,"Sotavento Beach Club",4,"474290",NA,3630,2018-12-23
+"590",2019-05-04,"bez wy¿ywienia","Exim Tours","Costa Dorada","Salou",8.3,"Best Negresco",4,"518070",29,1379,2018-12-23
+"591",2019-03-05,"œniadania","Ecco Holiday","Costa del Sol","Torremilonos",NA,"Natursun",3,"442957",NA,1494,2018-12-23
+"592",2019-04-09,"œniadania","Exim Tours","Costa Blanca","Benidorm",6.7,"Magic Tropical Splash (ex. Magic Monika Holidays)",3,"517537",NA,1659,2018-12-23
+"593",2019-05-18,"œniadania","Exim Tours","Teneryfa","Playa de Las Americas",7.7,"Ole Tenerife Tropical (ex Iberostar)",4,"509734",NA,2069,2018-12-23
+"594",2019-05-11,"œniadania","Exim Tours","Costa del Sol","Torremolinos",9,"Sol Don Pablo",4,"510162",26,2199,2018-12-23
+"595",2019-04-02,"œniadania","Exim Tours","Costa del Sol","Benalmadena Coast",NA,"Holiday Hydros",4,"510002",NA,2359,2018-12-23
+"596",2019-04-15,"œniadania i obiadokolacje","Rainbow","Costa del Sol","Almunecar",7.2,"Almunecar Playa & Spa",4,"182686",61,2514,2018-12-23
+"597",2019-05-12,"œniadania","Neckermann","Teneryfa","Playa de las Americas",6.7,"Columbus (Playa de las Americas)",3,"353071",NA,2609,2018-12-23
+"598",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria","Maspalomas",6.8,"Turbo Club",3,"501079",59,2629,2018-12-23
+"599",2019-05-12,"œniadania","Neckermann","Teneryfa","Playa de las Americas",6.7,"Aparthotel Columbus",3,"353070",NA,2638,2018-12-23
+"600",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria",NA,6.8,"Turbo Club",2,"506951",59,2699,2018-12-23
+"601",2019-05-12,"œniadania","Neckermann","Teneryfa","Playa de las Americas",6.7,"Aparthotel Columbus",3,"369070",NA,2764,2018-12-23
+"602",2019-03-09,"œniadania","Exim Tours","Teneryfa","Playa de Las Americas",7.7,"Ole Tenerife Tropical (ex Iberostar)",4,"491902",NA,2779,2018-12-23
+"603",2019-03-23,"All Inclusive","Ecco Holiday","Gran Canaria","San Agustin",8.3,"Ifa Interclub Atlantic",3,"20631",327,3210,2018-12-23
+"604",2019-05-05,"œniadania","Neckermann","La Gomera","Valle Gran Rey",NA,"Gran Rey",3,"464435",NA,3308,2018-12-23
+"605",2019-03-31,"All Inclusive","Rainbow","Teneryfa","San Miguel de Abona",NA,"Fantasia Bahia Principe Tenerife",5,"492721",NA,3971,2018-12-23
+"606",2019-05-21,"œniadania","Exim Tours","Costa Dorada","Salou",7.5,"Piramide Salou",4,"518068",NA,1499,2018-12-23
+"607",2019-05-18,"œniadania","Wezyr","Costa Brava","Blanes",7.6,"Stella Maris (Blanes)",3,"346263",NA,1827,2018-12-23
+"608",2019-04-27,"All Inclusive","Ecco Holiday","Costa Brava","Tossa de Mar",8.5,"Tossa Beach",4,"337054",607,2155,2018-12-23
+"609",2019-05-18,"œniadania","Wezyr","Costa Brava","Blanes",8.3,"Blaucel",4,"513999",NA,2213,2018-12-23
+"610",2019-05-05,"All Inclusive","Rainbow","Majorka","El Arenal",7.6,"Ipanema Park",3,"193143",62,2300,2018-12-23
+"611",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Puerto de la Cruz",8.3,"Teide Mar",3,"353456",NA,2400,2018-12-23
+"612",2019-05-16,"œniadania i obiadokolacje","Rainbow","Fuerteventura","El Cotillo",8,"Cotillo Beach",3,"507214",NA,2527,2018-12-23
+"613",2019-05-16,"All Inclusive","Rainbow","Fuerteventura","Corralejo",NA,"Arena Beach (Corralejo)",3.5,"507171",NA,2850,2018-12-23
+"614",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria",NA,8.7,"Caserio",4,"493412",25,2879,2018-12-23
+"615",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria","Playa del Ingles",8.7,"Caserio",4,"491934",25,2899,2018-12-23
+"616",2019-04-12,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Playa del Ingles",9.1,"Escorial",3.5,"353383",NA,3289,2018-12-23
+"617",2019-05-05,"œniadania","Rainbow","Teneryfa","Costa Adeje",8.9,"Gran Costa Adeje",5,"462907",21,3331,2018-12-23
+"618",2019-03-07,"œniadania","Itaka","Teneryfa","Costa Adeje",8.5,"Fanabe Costa Sur",4,"477751",31,3359,2018-12-23
+"619",2019-05-22,"œniadania","Neckermann","Gran Canaria","San Agustin",8.6,"Corallium Beach by Lopesan Hotels (ex Ifa Beach)",4,"498700",NA,3536,2018-12-23
+"620",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Costa Adeja",8.8,"H10 Costa Adeje Palace",4,"149373",NA,3578,2018-12-23
+"621",2019-05-10,"œniadania","Neckermann","Gran Canaria","San Agustin",8.6,"Corallium Beach by Lopesan Hotels (ex Ifa Beach)",4,"498703",NA,3600,2018-12-23
+"622",2019-03-03,"œniadania","Neckermann","Teneryfa","Costa Adeje Costa Adeje",8.1,"Alexandre Troya",4,"353072",77,3870,2018-12-23
+"623",2019-05-16,"œniadania i obiadokolacje","Neckermann","Gran Canaria","San Agustin",8.6,"Corallium Beach by Lopesan Hotels (ex Ifa Beach)",4,"519078",NA,3899,2018-12-23
+"624",2019-05-16,"œniadania i obiadokolacje","Neckermann","Gran Canaria","San Agustin",8.6,"Corallium Beach by Lopesan Hotels (ex Ifa Beach)",4,"498741",NA,3987,2018-12-23
+"625",2019-03-01,"œniadania i obiadokolacje","Neckermann","Gran Canaria","San Agustin",8.6,"Ifa Beach",4,"407957",NA,4728,2018-12-23
+"626",2019-03-28,"bez wy¿ywienia","Exim Tours","Costa Brava","Lloret de Mar",7.5,"Santa Cristina (ex Eugenia)",4,"510481",NA,1399,2018-12-23
+"627",2019-03-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",8.2,"RH Canfali",4,"502135",NA,1859,2018-12-23
+"628",2019-04-09,"œniadania","Exim Tours","Costa Blanca","Benidorm",8.2,"RH Canfali",4,"517599",NA,1899,2018-12-23
+"629",2019-05-18,"œniadania","Wezyr","Costa Brava","Lloret de Mar",7.6,"Costa Encantada",4,"182232",NA,2000,2018-12-23
+"630",2019-03-04,"œniadania i obiadokolacje","Itaka","Costa del Sol","Torremolinos",7.7,"Medplaya Pez Espada",4,"442098",NA,2189,2018-12-23
+"631",2019-03-31,"œniadania","Rainbow","Teneryfa","Puerto de la Cruz",NA,"Turquesa Playa Apartamentos",4,"492720",NA,2350,2018-12-23
+"632",2019-03-23,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,NA,"Ecuador",2,"491866",NA,2399,2018-12-23
+"633",2019-03-07,"All Inclusive","Rainbow","Fuerteventura","Costa Calma",8.1,"Golden Beach Hotel",3.5,"283616",NA,2849,2018-12-23
+"634",2019-03-16,"All Inclusive","Exim Tours","Fuerteventura",NA,8.7,"Altamarena",4,"498333",NA,2899,2018-12-23
+"635",2019-04-04,"œniadania i obiadokolacje","Itaka","Teneryfa","La Caletta",8.8,"H10 Costa Adeje Palace",4,"441956",NA,3559,2018-12-23
+"636",2019-04-28,"œniadania","Rainbow","Majorka","Playa de Palma",NA,"Iberostar Bahia de Palma",5,"464561",NA,4530,2018-12-23
+"637",2019-04-18,"œniadania","Exim Tours","Costa Brava","Calella",6.7,"Santa Monica (Calella)",3,"518144",25,1379,2018-12-23
+"638",2019-05-20,"œniadania i obiadokolacje","Itaka","Costa de la Luz","Isla Cristina",8.5,"Barcelo Isla Cristina",4.5,"466753",22,2339,2018-12-23
+"639",2019-05-06,"œniadania i obiadokolacje","Rainbow","Costa del Sol","Benalmadena",8.4,"Best Benalmadena",4,"467957",NA,2900,2018-12-23
+"640",2019-04-01,"œniadania i obiadokolacje","Rainbow","Costa del Sol","Marbella",6.5,"Bluebay Banus (ex Rincon Andaluz)",4.5,"203655",NA,3014,2018-12-23
+"641",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria","Playa del Ingles",9.1,"Escorial",3,"491952",NA,3039,2018-12-23
+"642",2019-05-20,"œniadania i obiadokolacje","Itaka","Wyc. objazdowe",NA,NA,"Wiatr w ¿agle",NA,"489254",NA,3079,2018-12-23
+"643",2019-05-19,"œniadania i obiadokolacje","Rainbow","Teneryfa","Costa Adeje",8.6,"Iberostar Bouganville Playa",4.5,"246210",78,3150,2018-12-23
+"644",2019-04-22,"œniadania i obiadokolacje","Rainbow","Costa del Sol","Estepona",8.8,"H10 Estepona Palace",4.5,"199853",NA,3399,2018-12-23
+"645",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Playa Blanca",7.1,"Elba Royal Village (ex THB Corbeta)",4,"449347",NA,3434,2018-12-23
+"646",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Playa Paraiso, Adeje",6.9,"RIU Buena Vista",4,"206120",NA,3512,2018-12-23
+"647",2019-05-20,"œniadania i obiadokolacje","Itaka & Gala","Fuerteventura","Costa Calma",9.3,"SBH Costa Calma Palace",4.5,"442243",NA,3559,2018-12-23
+"648",2019-05-03,"All Inclusive","Rainbow","Gran Canaria","Playa de Taurito",8.9,"Suite Princess",4.5,"492732",NA,3975,2018-12-23
+"649",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,8.6,"Lopesan Villa Del Conde",5,"499532",NA,4219,2018-12-23
+"650",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Playa Blanca",9.1,"H10 Lanzarote Princess",4,"211751",NA,4584,2018-12-23
+"651",2019-05-14,"œniadania","Neckermann","Lanzarote","Playa Blanca",NA,"Iberostar La Bocayna Village",4,"423613",NA,4813,2018-12-23
+"652",2019-05-14,"œniadania","Neckermann","Lanzarote","Playa Blanca",NA,"Iberostar La Bocayna Village",4,"423614",NA,4974,2018-12-23
+"653",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Playa Blanca",7.1,"Elba Royal Village (ex THB Corbeta)",4,"449316",NA,4984,2018-12-23
+"654",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Altea",NA,"Cap Negret",4,"516942",NA,1569,2018-12-23
+"655",2019-04-23,"œniadania i obiadokolacje","Exim Tours","Costa Brava","Lloret de Mar",8,"Gran Garbi",4,"522529",93,1589,2018-12-23
+"656",2019-03-02,"œniadania","Exim Tours","Costa Blanca","Altea",NA,"Cap Negret",4,"494403",NA,1619,2018-12-23
+"657",2019-05-18,"œniadania i obiadokolacje","Wezyr","Costa Brava","Lloret de Mar",NA,"Garbi",2,"391265",NA,1746,2018-12-23
+"658",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Port Benidorm (Ex Dalmates)",4,"516989",NA,1889,2018-12-23
+"659",2019-03-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Port Benidorm (Ex Dalmates)",4,"494405",NA,1969,2018-12-23
+"660",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,NA,"Taoro Garden",4,"518579",NA,2039,2018-12-23
+"661",2019-05-16,"œniadania","Prima Holiday","Majorka","Can Pastilla",6.4,"Roc Leo",4,"521929",NA,2141,2018-12-23
+"662",2019-05-19,"œniadania i obiadokolacje","Itaka","Majorka","El Arenal",6.9,"Azuline Bahamas (El Arenal)",3.5,"505948",24,2259,2018-12-23
+"663",2019-03-24,"œniadania","Prima Holiday","Majorka","Can Pastilla",6.4,"Roc Leo",4,"518471",NA,2269,2018-12-23
+"664",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,NA,"Taoro Garden",4,"491892",NA,2299,2018-12-23
+"665",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Marbella",NA,"Melia Marbella Banus",4,"504010",NA,2349,2018-12-23
+"666",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Estepona",6.2,"Sol Marbella Estepona Atalaya Park",4,"491881",39,2899,2018-12-23
+"667",2019-05-04,"œniadania","Ecco Holiday","Teneryfa","El Medano",NA,"Arenas del Mar",4,"460701",NA,2975,2018-12-23
+"668",2019-03-07,"œniadania","Itaka","Teneryfa","Puerto de la Cruz",NA,"Taoro Garden",4,"489211",NA,3039,2018-12-23
+"669",2019-03-20,"œniadania i obiadokolacje","Ecco Holiday","Teneryfa","Costa Adeje",8.2,"Santa Maria",3,"18188",54,3107,2018-12-23
+"670",2019-03-01,"œniadania","Neckermann","Gran Canaria","Playa del Ingles",8.5,"IFA Buenaventura",3.5,"353382",308,3110,2018-12-23
+"671",2019-03-01,"œniadania","Neckermann","Gran Canaria","Playa del Ingles",8.5,"IFA Buenaventura",3.5,"369079",308,3235,2018-12-23
+"672",2019-04-04,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Costa Calma",9.6,"H 10 Playa Esmeralda",4.5,"147800",NA,3413,2018-12-23
+"673",2019-03-01,"œniadania","Neckermann","Gran Canaria","Playa del Ingles",8.5,"IFA Buenaventura",3.5,"420186",308,3574,2018-12-23
+"674",2019-04-25,"œniadania","Itaka & Gala","La Gomera","Playa Santiago",8.3,"Jardin Tecina",4,"441963",NA,3689,2018-12-23
+"675",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","San Miguel",8.5,"Sentido San Blas Reserva Ambiental Resort",5,"180232",NA,4159,2018-12-23
+"676",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Puerto del Carmen",9.8,"Aequora Lanzarote Suites (ex. Sentido)",4,"376943",87,4552,2018-12-23
+"677",2019-03-26,"œniadania i obiadokolacje","Prima Holiday","Costa Blanca","Altea",NA,"Cap Negret",4,"515403",NA,1856,2018-12-23
+"678",2019-05-04,"œniadania","Wezyr","Costa Brava","Tossa De Mar",NA,"Tossa Mar (ex. Mare Nostrum)",4,"320560",NA,1870,2018-12-23
+"679",2019-03-05,"œniadania","Ecco Holiday","Costa del Sol","Benalmadena",8.7,"Best Siroco",3,"514264",21,1891,2018-12-23
+"680",2019-05-11,"œniadania","Wezyr","Costa Brava","Lloret de Mar",NA,"Bertran Park (ex Aqua)",3,"209595",NA,1935,2018-12-23
+"681",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Puerto de la Cruz",6.5,"Marte",3.5,"353286",57,2246,2018-12-23
+"682",2019-03-25,"œniadania i obiadokolacje","Itaka","Costa del Sol","Torremolinos",7.8,"Sol Principe",4,"442076",30,2249,2018-12-23
+"683",2019-03-09,"All Inclusive","Exim Tours","Teneryfa",NA,8.2,"Globales Tamaimo Tropical",3,"499345",835,2299,2018-12-23
+"684",2019-04-13,"œniadania","Exim Tours","Costa del Sol","Torremolinos",8.6,"Sol Don Pedro",4,"509993",34,2299,2018-12-23
+"685",2019-05-04,"œniadania","Exim Tours","Costa del Sol","Estepona",NA,"Iberostar Costa del Sol",4,"510246",NA,2389,2018-12-23
+"686",2019-05-12,"œniadania i obiadokolacje","Itaka","Majorka","Can Picafort",NA,"Son Baulo",3.5,"506022",NA,2469,2018-12-23
+"687",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Puerto de la Cruz",6.5,"Marte",3,"500887",57,2481,2018-12-23
+"688",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","El Médano",7.1,"El Medano",3.5,"217593",47,2637,2018-12-23
+"689",2019-05-12,"œniadania","Neckermann","La Gomera","Playa Santiago",8.3,"Jardin Tecina",4,"494693",NA,3413,2018-12-23
+"690",2019-03-01,"œniadania i obiadokolacje","Itaka","Gran Canaria","San Agustin",8.8,"Gloria Palace",4,"442411",35,3729,2018-12-23
+"691",2019-03-24,"All Inclusive","Rainbow","Teneryfa","Playa de las Americas",8.1,"Troya (Playa de las Americas)",4,"463696",77,4785,2018-12-23
+"692",2019-05-18,"œniadania","Wezyr","Costa Brava","Blanes",NA,"GHT Balmes",3,"393081",NA,1787,2018-12-23
+"693",2019-03-23,"œniadania","Ecco Holiday","Gran Canaria","Playa del Ingles",6.9,"Corona Roja",2,"441257",NA,2133,2018-12-23
+"694",2019-03-05,"œniadania","Ecco Holiday","Costa del Sol","Benalmadena",8,"Best Triton",4,"215775",NA,2228,2018-12-23
+"695",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Golf del Sur",8.9,"Aguamarina Golf Apartments",4,"429652",21,2468,2018-12-23
+"696",2019-04-21,"bez wy¿ywienia","Neckermann","Teneryfa","San Miguel",8.9,"Aguamarina Golf Apartments",3,"515709",21,2718,2018-12-23
+"697",2019-03-09,"All Inclusive","Exim Tours","Gran Canaria",NA,8.6,"Dorado Beach",3,"491722",29,3319,2018-12-23
+"698",2019-03-16,"All Inclusive","Exim Tours","Gran Canaria",NA,8.6,"Dorado Beach",3,"491723",29,3389,2018-12-23
+"699",2019-05-12,"All Inclusive","Rainbow","Majorka","Cala Mondrago",8,"Iberostar Club Cala Barca",4,"463727",NA,3418,2018-12-23
+"700",2019-05-05,"All Inclusive","Rainbow","Majorka","Cala D'Or",NA,"Ferrera Blanca",4,"463697",NA,3510,2018-12-23
+"701",2019-05-03,"Wszystko w cenie","Neckermann","Gran Canaria","Arguineguín",8.6,"Dorado Beach",3.5,"353395",29,3595,2018-12-23
+"702",2019-05-14,"œniadania i obiadokolacje","Itaka","Gran Canaria","San Agustin",8,"Melia Tamarindos",5,"467253",NA,3849,2018-12-23
+"703",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",6.7,"Iberostar Grand Anthelia",5,"199326",NA,4603,2018-12-23
+"704",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",6.7,"Iberostar Anthelia",5,"371265",NA,4888,2018-12-23
+"705",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",6.7,"Iberostar Anthelia",5,"434988",NA,6114,2018-12-23
+"706",2019-03-03,"œniadania","Neckermann","Teneryfa","Costa Adeje",6.7,"Iberostar Anthelia",5,"494669",NA,7188,2018-12-23
+"707",2019-05-11,"bez wy¿ywienia","Exim Tours","Costa del Sol","Torremolinos",NA,"Princesa Solar",4,"509963",NA,1529,2018-12-23
+"708",2019-05-04,"œniadania","Wezyr","Costa Brava","Santa Susanna",8.4,"Florida Park",4,"147554",42,1890,2018-12-23
+"709",2019-04-18,"œniadania i obiadokolacje","Regent","Barcelona",NA,NA,"Wielkanoc w Barcelonie",3,"257253",NA,2290,2018-12-23
+"710",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Costa Adeje",NA,"Panoramica Heights",4,"429653",NA,2690,2018-12-23
+"711",2019-04-12,"œniadania","Neckermann","Gran Canaria","Las Palmas",NA,"Astoria (Las Palmas)",3,"396223",NA,2786,2018-12-23
+"712",2019-05-05,"œniadania i obiadokolacje","Rainbow","Teneryfa","Playa de las Americas",8.5,"Gala Tenerife",4,"507155",109,3100,2018-12-23
+"713",2019-05-07,"œniadania","Itaka","Gran Canaria","Maspalomas",9.4,"Ifa Faro",4,"467286",NA,3259,2018-12-23
+"714",2019-05-20,"All Inclusive","Itaka","Fuerteventura","Tarajalejo",8.5,"R2 Romantic Fantasia Dreams & Suites",4,"506081",NA,3329,2018-12-23
+"715",2019-04-04,"œniadania i obiadokolacje","Itaka","Teneryfa","Playa de las Americas",8.4,"Las Palmeras (Playa de las Americas)",4,"467224",NA,3479,2018-12-23
+"716",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",8.9,"Costa Adeje Gran",5,"206119",21,3556,2018-12-23
+"717",2019-03-20,"œniadania i obiadokolacje","Ecco Holiday","Teneryfa","Playa de las Americas",8.5,"Gala Tenerife",4,"337376",109,3697,2018-12-23
+"718",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Levante Club",4,"517544",NA,1699,2018-12-23
+"719",2019-05-04,"œniadania","Wezyr","Costa Brava","Malgrat De Mar",7,"Reymar",3,"270660",68,1763,2018-12-23
+"720",2019-03-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Levante Club Hotel  Spa",4,"498531",NA,1859,2018-12-23
+"721",2019-03-24,"œniadania","Prima Holiday","Majorka","Can Pastilla",8.8,"BG Java",4,"518481",NA,1923,2018-12-23
+"722",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,NA,"Playa Sur Tenerife",3,"518578",NA,2039,2018-12-23
+"723",2019-05-16,"œniadania","Prima Holiday","Majorka","Can Pastilla",8.8,"BG Java",4,"520466",NA,2127,2018-12-23
+"724",2019-05-05,"All Inclusive","Rainbow","Majorka","El Arenal",NA,"Mix Alea (El Arenal)",3,"507098",NA,2299,2018-12-23
+"725",2019-05-13,"œniadania i obiadokolacje","Itaka","Costa de la Luz","Isla Canela",8.9,"Barcelo Isla Canela",4.5,"466754",NA,2339,2018-12-23
+"726",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Puerto de la Cruz",NA,"Casablanca (Puerto de la Cruz)",4,"415708",NA,2357,2018-12-23
+"727",2019-03-09,"œniadania","Exim Tours","Teneryfa","El Medano",NA,"Playa Sur Tenerife",3,"491899",NA,2389,2018-12-23
+"728",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Puerto de la Cruz",NA,"Casablanca (Puerto de la Cruz)",4,"415727",NA,2404,2018-12-23
+"729",2019-05-18,"œniadania","Exim Tours","Teneryfa","Costa Adeje",8.6,"Iberostar Bouganville Playa",4,"509742",78,2429,2018-12-23
+"730",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Puerto de la Cruz",NA,"Casablanca (Puerto de la Cruz)",3,"502853",NA,2547,2018-12-23
+"731",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria","Playa del Ingles",NA,"Maritim Playa Aparthotel",3,"491927",NA,2629,2018-12-23
+"732",2019-03-25,"œniadania i obiadokolacje","Itaka","Costa del Sol","Torremolinos",9,"Sol Don Pablo",4.5,"442071",26,2639,2018-12-23
+"733",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Puerto de la Cruz",NA,"Casablanca (Puerto de la Cruz)",3,"490199",NA,2682,2018-12-23
+"734",2019-03-21,"bez wy¿ywienia","Neckermann","Fuerteventura","Corralejo",8.7,"Las Marismas- Aparthotel",4,"199337",NA,2839,2018-12-23
+"735",2019-04-05,"bez wy¿ywienia","Neckermann","Gran Canaria","Playa del Aguila",NA,"Acapulco (Aguila Playa)",3,"397795",NA,2877,2018-12-23
+"736",2019-03-09,"œniadania","Exim Tours","Costa del Sol","Marbella",NA,"Guadalmina Spa & Golf Resort",4,"491940",NA,2889,2018-12-23
+"737",2019-03-09,"œniadania i obiadokolacje","Ecco Holiday","Gran Canaria","Playa del Inglés",8.5,"Beverly Park",3,"147117",277,2966,2018-12-23
+"738",2019-05-12,"œniadania","Neckermann","Teneryfa","Playa de las Americas",8.5,"Gala",4,"199318",109,3027,2018-12-23
+"739",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria",NA,NA,"Maritim Playa Aparthotel",3,"491935",NA,3029,2018-12-23
+"740",2019-05-12,"œniadania","Neckermann","Teneryfa","El Medano",NA,"Arenas del Mar",4.5,"211622",NA,3034,2018-12-23
+"741",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Playa de las Americas",8.5,"Gala Tenerife",4,"495254",109,3231,2018-12-23
+"742",2019-05-12,"œniadania","Neckermann","Teneryfa","Playa de las Americas",9.1,"Mediterranean Palace",4,"203314",NA,3252,2018-12-23
+"743",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,10,"Reina Isabel (Las Palmas)",4,"491954",NA,3359,2018-12-23
+"744",2019-03-09,"œniadania","Exim Tours","Teneryfa","Costa Adeje",8.6,"Iberostar Bouganville Playa",4,"491907",78,3439,2018-12-23
+"745",2019-05-06,"œniadania i obiadokolacje","Rainbow","Costa del Sol","Benalmadena",8,"Best Triton",4,"202566",NA,3549,2018-12-23
+"746",2019-05-12,"œniadania","Neckermann","Teneryfa","Playa de las Americas",9.1,"Mediterranean Palace Mare Nostrum",5,"493012",NA,3653,2018-12-23
+"747",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,10,"Reina Isabel (Las Palmas)",4,"491955",NA,3659,2018-12-23
+"748",2019-03-01,"Wszystko w cenie","Neckermann","Gran Canaria","San Agustin",8.3,"Ifa Interclub Atlantic",3.5,"311205",327,3675,2018-12-23
+"749",2019-03-01,"Wszystko w cenie","Neckermann","Gran Canaria","San Agustin",8.3,"Ifa Interclub Atlantic",3.5,"369064",327,3806,2018-12-23
+"750",2019-05-12,"œniadania","Neckermann","Teneryfa","Playa de las Americas",9.1,"Mediterranean Palace Mare Nostrum",5,"499923",NA,3816,2018-12-23
+"751",2019-04-28,"œniadania i obiadokolacje","Rainbow","Majorka","Playa de Palma",8.7,"Gran Fiesta",4,"203370",NA,3859,2018-12-23
+"752",2019-03-01,"Wszystko w cenie","Neckermann","Gran Canaria","San Agustin",8.3,"Ifa Interclub Atlantic",3.5,"415730",327,4115,2018-12-23
+"753",2019-05-16,"œniadania","Rainbow","Fuerteventura","Corralejo",7.8,"Gran Atlantis Bahia Real",5,"192119",NA,4631,2018-12-23
+"754",2019-04-25,"œniadania","Itaka","Teneryfa","Playa Paraiso",8.3,"Hard Rock Tenerife",5,"467171",NA,4799,2018-12-23
+"755",2019-03-05,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Madeira Centro",4,"494633",NA,1669,2018-12-23
+"756",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Madeira Centro",4,"518881",NA,1669,2018-12-23
+"757",2019-05-18,"bez wy¿ywienia","Wezyr","Costa Brava","Santa Susanna",4.5,"H-TOP Royal Sun Suite",4,"360441",NA,1719,2018-12-23
+"758",2019-05-16,"All Inclusive","Prima Holiday","Majorka","Arenal",7.1,"Seramar Luna & Luna Park",3.5,"521925",216,1883,2018-12-23
+"759",2019-05-18,"œniadania","Wezyr","Costa Brava","Lloret de Mar",7.1,"GHT Aquarium",4,"226397",NA,1903,2018-12-23
+"760",2019-05-06,"œniadania i obiadokolacje","Rainbow","Costa de la Luz","Isla Canela",6.4,"Playamarina",4,"463681",NA,2314,2018-12-23
+"761",2019-05-16,"All Inclusive","Rainbow","Fuerteventura","Caleta de Fuste",8,"Tahona Garden",2,"283949",NA,2566,2018-12-23
+"762",2019-03-11,"œniadania i obiadokolacje","Itaka","Andaluzja","Monachil",NA,"Ziryab",3,"457465",NA,2759,2018-12-23
+"763",2019-04-04,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Costa Calma",9.2,"H10 Tindaya",4,"153454",29,3175,2018-12-23
+"764",2019-05-18,"All Inclusive","Itaka","Lanzarote","Playa Blanca",7.6,"VIK Villas Coral Beach (ex Club)",4,"442181",NA,3289,2018-12-23
+"765",2019-05-10,"œniadania","Neckermann","Gran Canaria","Meloneras",9.4,"Lopesan Costa Meloneras",4.5,"291817",88,3471,2018-12-23
+"766",2019-05-12,"œniadania i obiadokolacje","Rainbow","Majorka","Playa de Palma",8.4,"El Cid",4,"182218",NA,3600,2018-12-23
+"767",2019-05-07,"œniadania","Neckermann","Lanzarote","Playa Blanca",NA,"Princesa Yaiza",5,"199391",NA,3696,2018-12-23
+"768",2019-05-12,"œniadania","Neckermann","La Gomera","Valle Gran Rey",NA,"Playa Calera",4,"494692",NA,3772,2018-12-23
+"769",2019-05-05,"œniadania","Itaka & Gala","Majorka","Illetas",9.2,"Barcelo Albatros",4,"505804",NA,3819,2018-12-23
+"770",2019-05-16,"œniadania","Neckermann","Gran Canaria","Meloneras",9.4,"Lopesan Costa Meloneras Resort",4.5,"20425",88,4126,2018-12-23
+"771",2019-05-05,"œniadania","Rainbow","Teneryfa","Costa Adeje",6.7,"Iberostar Anthelia",5,"507233",NA,4200,2018-12-23
+"772",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria",NA,8.2,"Cordial Mogan Playa",4,"492053",NA,4259,2018-12-23
+"773",2019-03-09,"œniadania i obiadokolacje","Exim Tours","Gran Canaria",NA,8.2,"Cordial Mogan Playa",4,"492054",NA,4289,2018-12-23
+"774",2019-03-09,"œniadania","Ecco Holiday","Gran Canaria","Maspalomas",9.4,"Lopesan Costa Meloneras",4,"20893",88,4347,2018-12-23
+"775",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Playa Blanca",NA,"Princesa Yaiza Suite Resort",5,"519609",NA,5761,2018-12-23
+"776",2019-03-01,"œniadania","Neckermann","Gran Canaria","Meloneras",9.4,"Lopesan Costa Meloneras Resort Spa",4.5,"180910",88,5799,2018-12-23
+"777",2019-05-14,"œniadania","Neckermann","Lanzarote","Playa Blanca",NA,"Princesa Yaiza Suite Resort",5,"519773",NA,11971,2018-12-23
+"778",2019-05-04,"bez wy¿ywienia","Exim Tours","Costa Dorada","Salou",5.2,"Best Cap Salou",3,"518860",27,1299,2018-12-23
+"779",2019-05-23,"œniadania i obiadokolacje","Exim Tours","Majorka",NA,7.4,"Manaus",3,"514369",52,1639,2018-12-23
+"780",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria","Playa del Ingles",7.9,"Las Faluas",2,"491660",NA,1699,2018-12-23
+"781",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,7.9,"Las Faluas",2,"491663",NA,1699,2018-12-23
+"782",2019-04-02,"œniadania","Ecco Holiday","Costa del Sol","Torremolinos",9.6,"Tropicana",4,"515467",NA,1705,2018-12-23
+"783",2019-03-09,"œniadania","Exim Tours","Costa del Sol",NA,NA,"Villa Flamenca",3,"491824",NA,1749,2018-12-23
+"784",2019-05-16,"œniadania","Prima Holiday","Majorka","Magalluf",8.1,"Samos",3,"522133",NA,1750,2018-12-23
+"785",2019-04-02,"œniadania","Exim Tours","Costa del Sol",NA,NA,"Villa Flamenca",3,"509996",NA,2089,2018-12-23
+"786",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,8.6,"Best Jacaranda",4,"518581",85,2099,2018-12-23
+"787",2019-05-05,"All Inclusive","Prima Holiday","Majorka",NA,8,"Club Europa (Peguera)",4,"519954",NA,2235,2018-12-23
+"788",2019-04-04,"All Inclusive","Prima Holiday","Majorka","Puerto de Alcudia",8.3,"Condesa de la Bahia",4,"519983",NA,2583,2018-12-23
+"789",2019-05-12,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",7.2,"Blue Sea Interpalace (ex. Hostasa)",4,"515574",198,2797,2018-12-23
+"790",2019-05-06,"œniadania i obiadokolacje","Rainbow","Costa de la Luz","Isla Canela",8.9,"Iberostar Isla Canela",4.5,"224642",NA,2849,2018-12-23
+"791",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,NA,"GF Victoria",5,"518591",NA,2989,2018-12-23
+"792",2019-05-16,"All Inclusive","Rainbow","Fuerteventura","Corralejo",7.8,"Arena Suite Fuerteventura (ex. Arena)",4,"507174",NA,3000,2018-12-23
+"793",2019-05-12,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",7.2,"Blue Sea Interpalace (ex. Hostasa)",4,"490478",198,3072,2018-12-23
+"794",2019-05-03,"bez wy¿ywienia","Neckermann","Gran Canaria","Playa del Cura",NA,"Sunwing Ocean Beach Club (ex. Riviera Beach)",4.5,"415739",NA,3120,2018-12-23
+"795",2019-04-11,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Playa de Esquinzo",8.2,"Fuerteventura Princess",4,"500090",270,3453,2018-12-23
+"796",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Playa Paraiso",8.8,"Roca Nivaria",5,"217606",NA,4245,2018-12-23
+"797",2019-05-16,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Playa Amadores",9.5,"Gloria Palace Royal & Spa",4.5,"500150",42,4529,2018-12-23
+"798",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,NA,"GF Victoria",5,"498842",NA,5569,2018-12-23
+"799",2019-05-16,"œniadania","Prima Holiday","Majorka","Arenal",NA,"Mix Alea (El Arenal)",3.5,"521923",NA,1639,2018-12-23
+"800",2019-05-11,"œniadania","Wezyr","Costa Brava","Lloret de Mar",7,"Acapulco",4,"284218",NA,1718,2018-12-23
+"801",2019-05-04,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Magic Aqua Rock Gardens",4,"517558",NA,1979,2018-12-23
+"802",2019-05-04,"œniadania","Wezyr","Costa Brava","Lloret de Mar",8.3,"Marsol",4,"192670",NA,2003,2018-12-23
+"803",2019-05-23,"All Inclusive","Exim Tours","Majorka","Magaluf",7.7,"Globales Honolulu",3,"514967",120,2199,2018-12-23
+"804",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,NA,"Riviera Vista",3,"491924",NA,2389,2018-12-23
+"805",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,NA,"Riviera Vista",3,"491929",NA,2389,2018-12-23
+"806",2019-04-07,"bez wy¿ywienia","Neckermann","Teneryfa","Arona",NA,"Checkin Bungalows Atlantida",3,"494671",NA,3149,2018-12-23
+"807",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",8.6,"Melia Jardines del Teide",5,"502785",NA,3279,2018-12-23
+"808",2019-05-04,"œniadania","Itaka","Lanzarote","Puerto del Carmen",NA,"Suite Fariones Playa",4,"442082",NA,3279,2018-12-23
+"809",2019-04-26,"Wszystko w cenie","Neckermann","Gran Canaria","Playa Taurito",7.7,"Paradise Costa Taurito",4,"182251",93,3341,2018-12-23
+"810",2019-05-14,"All Inclusive","Itaka","Gran Canaria","Maspalomas",7,"Koala Garden Suites",4,"442165",NA,3499,2018-12-23
+"811",2019-05-05,"All Inclusive","Rainbow","Majorka","Santa Ponsa",NA,"Fergus Style Cala Blanca",4,"463679",NA,3630,2018-12-23
+"812",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",9.6,"Colon Guanahani",4,"265736",NA,3660,2018-12-23
+"813",2019-03-16,"All Inclusive","Itaka","Lanzarote","Puerto del Carmen",7.3,"Sol Lanzarote",4.5,"442147",NA,3669,2018-12-23
+"814",2019-05-23,"Wszystko w cenie","Neckermann","Gran Canaria","Playa Taurito",7.7,"Paradise Costa Taurito",4,"519065",93,3948,2018-12-23
+"815",2019-03-14,"Wszystko w cenie","Neckermann","Fuerteventura","Jandia",8.6,"Iberostar Playa Gaviotas Park",4,"24550",NA,4001,2018-12-23
+"816",2019-04-11,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Jandía",9.4,"Iberostar Palace Fuerteventura",5,"474288",NA,4083,2018-12-23
+"817",2019-03-16,"All Inclusive","Ecco Holiday","Gran Canaria","Playa del Inglés",8.5,"Abora Catarina (ex. Ifa)",4,"215754",142,4309,2018-12-23
+"818",2019-03-07,"Wszystko w cenie","Neckermann","Fuerteventura","Jandia",8.6,"Iberostar Playa Gaviotas Park",4,"20379",NA,4328,2018-12-23
+"819",2019-05-16,"œniadania i obiadokolacje","Itaka","Wyc. objazdowe",NA,NA,"Islas Bonitas",NA,"503325",NA,4379,2018-12-23
+"820",2019-05-14,"œniadania","Neckermann","Lanzarote","Puerto Calero",NA,"Hesperia Lanzarote",5,"415732",NA,4475,2018-12-23
+"821",2019-03-14,"Wszystko w cenie","Neckermann","Fuerteventura","Jandia",8.6,"Iberostar Playa Gaviotas Park",4,"370686",NA,4540,2018-12-23
+"822",2019-03-14,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Jandía",9.4,"Iberostar Palace Fuerteventura",5,"474289",NA,4631,2018-12-23
+"823",2019-03-14,"Wszystko w cenie","Neckermann","Fuerteventura","Jandia",8.6,"Iberostar Playa Gaviotas Park",4,"223123",NA,4687,2018-12-23
+"824",2019-05-14,"œniadania","Neckermann","Lanzarote","Puerto Calero",NA,"Hesperia Lanzarote",5,"425010",NA,4806,2018-12-23
+"825",2019-04-11,"Wszystko w cenie","Neckermann","Fuerteventura","Jandia",8.6,"Iberostar Playa Gaviotas Park",4,"449039",NA,4932,2018-12-23
+"826",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",NA,"Iberostar Grand El Mirador",5,"414053",NA,5043,2018-12-23
+"827",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",NA,"Iberostar Grand El Mirador",5,"414048",NA,5358,2018-12-23
+"828",2019-05-23,"œniadania","Neckermann","Gran Canaria","Maspalomas",NA,"Seaside Palm Beach",5,"182248",NA,5919,2018-12-23
+"829",2019-05-23,"œniadania","Neckermann","Gran Canaria","Maspalomas",NA,"Seaside Palm Beach",5,"182249",NA,6372,2018-12-23
+"830",2019-05-23,"œniadania","Neckermann","Gran Canaria","Maspalomas",NA,"Seaside Palm Beach",5,"182250",NA,7143,2018-12-23
+"831",2019-05-23,"œniadania","Neckermann","Gran Canaria","Maspalomas",NA,"Seaside Palm Beach",5,"182252",NA,7935,2018-12-23
+"832",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",NA,"Iberostar Grand El Mirador",5,"522338",NA,8072,2018-12-23
+"833",2019-05-23,"œniadania","Neckermann","Gran Canaria","Maspalomas",NA,"Seaside Palm Beach",5,"503261",NA,8699,2018-12-23
+"834",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Mareny Benidorm (Ex Condal)",3,"517466",NA,1319,2018-12-23
+"835",2019-05-11,"œniadania","Exim Tours","Costa Brava","Lloret de Mar",NA,"Delamar (ex. Frigola)",4,"510483",NA,1519,2018-12-23
+"836",2019-05-12,"œniadania","Exim Tours","Costa de la Luz",NA,6.4,"Playamarina",4,"516787",NA,1589,2018-12-23
+"837",2019-05-16,"œniadania","Prima Holiday","Majorka","Arenal",7.4,"Manaus",3,"521922",52,1590,2018-12-23
+"838",2019-05-12,"œniadania","Exim Tours","Costa de la Luz","Cartaya",7.9,"Playacartaya Spa",4,"516790",185,1679,2018-12-23
+"839",2019-05-16,"œniadania","Prima Holiday","Majorka","Magalluf",8.2,"Don Juan (Magalluf)",3,"519979",NA,1747,2018-12-23
+"840",2019-03-12,"trzy posi³ki","Prima Holiday","Costa Brava",NA,8,"H Top Pineda Palace",4,"502452",223,1767,2018-12-23
+"841",2019-05-04,"bez wy¿ywienia","Wezyr","Costa Brava","Lloret de Mar",NA,"Condado",3,"189961",NA,1858,2018-12-23
+"842",2019-05-21,"trzy posi³ki","Prima Holiday","Costa Brava",NA,8,"H Top Pineda Palace",4,"519916",223,1940,2018-12-23
+"843",2019-05-04,"œniadania","Wezyr","Costa Brava","Malgrat De Mar",7.7,"Aqua Bella Playa",3,"204416",NA,2108,2018-12-23
+"844",2019-05-03,"bez wy¿ywienia","Rainbow","Gran Canaria","Playa del Ingles",NA,"Parque Paraiso II",3,"507201",NA,2464,2018-12-23
+"845",2019-05-04,"All Inclusive","Rainbow","Costa Brava","Lloret de Mar",7.1,"Rosamar Spa",4.5,"410339",NA,2779,2018-12-23
+"846",2019-05-05,"œniadania i obiadokolacje","Neckermann","Teneryfa","Puerto de la Cruz",NA,"Puerto Palace",4,"494674",NA,2887,2018-12-23
+"847",2019-05-03,"œniadania","Rainbow","Gran Canaria","Las Palmas de Gran Canaria",NA,"Labranda Bex",4,"463752",NA,2945,2018-12-23
+"848",2019-05-05,"œniadania i obiadokolacje","Neckermann","Teneryfa","Puerto de la Cruz",NA,"Puerto Palace",4,"495231",NA,2964,2018-12-23
+"849",2019-05-21,"œniadania i obiadokolacje","Neckermann","Lanzarote","Playa Blanca",8.2,"H10 Rubicon Palace",4.5,"211752",NA,3094,2018-12-23
+"850",2019-03-03,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",NA,"Puerto Palace",4,"490319",NA,3114,2018-12-23
+"851",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",8.6,"Iberostar Bouganville Playa",4,"199314",78,3115,2018-12-23
+"852",2019-04-22,"œniadania i obiadokolacje","Rainbow","Costa del Sol","Torrox - Costa",NA,"Iberostar Malaga Playa",4.5,"206295",NA,3145,2018-12-23
+"853",2019-04-11,"bez wy¿ywienia","Neckermann","Fuerteventura","Corralejo",8.1,"smartline Playa Park",4,"474292",NA,3219,2018-12-23
+"854",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",8.6,"Iberostar Bouganville Playa",4,"371263",78,3240,2018-12-23
+"855",2019-04-04,"œniadania i obiadokolacje","Neckermann","Fuerteventura","Corralejo",2.8,"H10 Ocean Suites",4,"449041",NA,3294,2018-12-23
+"856",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Golf del Sur",7.6,"Aguamarina Golf",4,"265704",NA,3296,2018-12-23
+"857",2019-03-28,"Wszystko w cenie","Neckermann","Fuerteventura","Corralejo",8.1,"Playa Park Club",4,"353292",NA,3357,2018-12-23
+"858",2019-05-16,"All Inclusive","Rainbow","Fuerteventura","Caleta de Fuste",9.1,"Ereza Mar (ex. Dorado Suites)",4,"507220",24,3430,2018-12-23
+"859",2019-03-28,"œniadania i obiadokolacje","Itaka","Teneryfa","Costa Adeje",8.6,"Bahia Princess",4,"470000",NA,3709,2018-12-23
+"860",2019-04-21,"Wszystko w cenie","Neckermann","Teneryfa","San Miguel",7.6,"Aguamarina Golf",4,"515496",NA,3839,2018-12-23
+"861",2019-04-05,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Maspalomas",8.6,"Dunas Suites Villas",4,"443930",58,3865,2018-12-23
+"862",2019-04-05,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Puerto Rico",9.3,"Gloria Palace Amadores",4,"417584",28,3878,2018-12-23
+"863",2019-04-05,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Maspalomas",8.6,"Dunas Suites & Villas",4,"443933",58,3918,2018-12-23
+"864",2019-05-10,"œniadania","Neckermann","Gran Canaria","Meloneras",8.7,"Lopesan Baobab Resort",5,"180897",NA,4242,2018-12-23
+"865",2019-05-12,"œniadania","Neckermann","Teneryfa","Playa de las Americas",9.5,"Europe Villa Cortes",5,"521117",NA,4337,2018-12-23
+"866",2019-05-23,"œniadania","Neckermann","Gran Canaria","Meloneras",8.7,"Lopesan Baobab Resort",5,"291818",NA,4378,2018-12-23
+"867",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,NA,"Bohemia Suite & Spa",5,"492049",NA,4399,2018-12-23
+"868",2019-03-09,"œniadania","Exim Tours","Gran Canaria","Playa del Ingles",NA,"Bohemia Suite & Spa",5,"492050",NA,4449,2018-12-23
+"869",2019-05-14,"Wszystko w cenie","Neckermann","Lanzarote","Puerto del Carmen",NA,"smartline Pocillos Playa",3.5,"494493",NA,4925,2018-12-23
+"870",2019-05-07,"Wszystko w cenie","Neckermann","Lanzarote","Puerto del Carmen",8.7,"Riu Paraiso Lanzarote Resort",4,"303402",NA,5101,2018-12-23
+"871",2019-04-21,"œniadania","Neckermann","Teneryfa","Playa de las Americas",9.5,"Europe Villa Cortes",5,"493052",NA,5454,2018-12-23
+"872",2019-03-01,"œniadania","Neckermann","Gran Canaria","Meloneras",8.7,"Lopesan Baobab Resort",5,"408123",NA,6592,2018-12-23
+"873",2019-05-21,"bez wy¿ywienia","Exim Tours","Costa Dorada","Salou",8.4,"Best San Diego",4,"518877",NA,1399,2018-12-23
+"874",2019-04-02,"œniadania","Ecco Holiday","Costa del Sol","Torremolinos",NA,"Sun Sport",3,"515466",NA,1502,2018-12-23
+"875",2019-05-12,"œniadania","Exim Tours","Costa de la Luz",NA,8,"Playacanela",4,"516788",140,1629,2018-12-23
+"876",2019-05-18,"œniadania","Exim Tours","Teneryfa",NA,4.1,"Alua Parque San Antonio",4,"518573",37,1669,2018-12-23
+"877",2019-03-23,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Flash Benidorm",4,"494404",NA,1959,2018-12-23
+"878",2019-04-02,"œniadania i obiadokolacje","Exim Tours","Costa Blanca","Benidorm",NA,"Flash Benidorm",4,"517002",NA,1999,2018-12-23
+"879",2019-05-05,"œniadania i obiadokolacje","Prima Holiday","Majorka","Santa Ponsa",8.9,"Bahia Del Sol",4,"519980",42,2135,2018-12-23
+"880",2019-05-04,"œniadania i obiadokolacje","Ecco Holiday","Costa Brava","Malgrat de Mar",8.2,"Tropic Park",4,"518964",173,2190,2018-12-23
+"881",2019-05-13,"œniadania i obiadokolacje","Rainbow","Costa del Sol","Torremolinos",NA,"Sun Sport (ex. Vita Marina Sur)",3,"512062",NA,2499,2018-12-23
+"882",2019-05-19,"bez wy¿ywienia","Neckermann","Teneryfa","Playa de las Americas",NA,"Marola Park Apartments",3,"493048",NA,2682,2018-12-23
+"883",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Playa de las Americas",NA,"Marola Park Apartments",3,"514439",NA,2824,2018-12-23
+"884",2019-05-12,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",NA,"Diamante Suite",4,"505029",NA,2840,2018-12-23
+"885",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",8.5,"Fanabe Costa Sur",4,"369069",31,2860,2018-12-23
+"886",2019-04-04,"Wszystko w cenie","Neckermann","Fuerteventura","Costa Calma",7.7,"Royal Suite",4,"199334",107,3112,2018-12-23
+"887",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",8.5,"GF Fanabe Costa Sur",4,"493641",31,3197,2018-12-23
+"888",2019-03-05,"bez wy¿ywienia","Exim Tours","Costa del Sol","Torremolinos",NA,"Melia Costa del Sol",4,"491939",NA,3319,2018-12-23
+"889",2019-04-02,"bez wy¿ywienia","Exim Tours","Costa del Sol","Torremolinos",NA,"Melia Costa del Sol",4,"510107",NA,3349,2018-12-23
+"890",2019-03-14,"Wszystko w cenie","Neckermann","Fuerteventura","Corralejo",7.7,"Oasis Village",3,"499954",NA,3357,2018-12-23
+"891",2019-03-16,"All Inclusive","Ecco Holiday","Gran Canaria","Maspalomas",7.2,"Dunas Mirador Maspalomas",3,"357443",148,3389,2018-12-23
+"892",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Costa Adeje",9.3,"Hovima Costa Adeje (ex. Luabay)",4,"163911",57,3524,2018-12-23
+"893",2019-05-03,"œniadania","Neckermann","Gran Canaria","San Agustin",8,"Melia Tamarindos",4.5,"180909",NA,3642,2018-12-23
+"894",2019-05-16,"bez wy¿ywienia","Neckermann","Gran Canaria","Playa del Inglés",7.3,"Cordial Biarritz",4,"498740",NA,3678,2018-12-23
+"895",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Playa de las Americas",8.5,"H10 Conquistador",4,"13508",NA,3742,2018-12-23
+"896",2019-05-18,"œniadania i obiadokolacje","Itaka & Gala","Lanzarote","Playa Blanca",8.2,"Volcan Lanzarote",5,"442227",NA,3809,2018-12-23
+"897",2019-04-04,"Wszystko w cenie","Neckermann","Fuerteventura","Corralejo",NA,"Sunconnect Atlantis Fuerteventura",4,"248018",NA,4177,2018-12-23
+"898",2019-04-05,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Playa del Inglés",7.3,"Cordial Biarritz",4,"498742",NA,4578,2018-12-23
+"899",2019-04-04,"Wszystko w cenie","Neckermann","Fuerteventura","Corralejo",NA,"Sunconnect Atlantis Fuerteventura",4,"425019",NA,4665,2018-12-23
+"900",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Playa Blanca",NA,"H10 Sentido White Suites",4,"199390",NA,5050,2018-12-23
+"901",2019-04-05,"trzy posi³ki","Neckermann","Gran Canaria","Playa del Inglés",7.3,"Cordial Biarritz",4,"498707",NA,5089,2018-12-23
+"902",2019-03-28,"œniadania","Itaka","Teneryfa","Costa Adeje",NA,"GF Victoria",5,"495401",NA,8459,2018-12-23
+"903",2019-05-21,"bez wy¿ywienia","Exim Tours","Costa Blanca","Benidorm",NA,"Terralta",3,"516822",NA,1349,2018-12-23
+"904",2019-04-02,"œniadania","Ecco Holiday","Costa del Sol","Estepona",NA,"Diana Park",3,"443365",NA,1388,2018-12-23
+"905",2019-05-04,"bez wy¿ywienia","Exim Tours","Costa Dorada","Cambrils",7.9,"Best Cambrils",4,"518069",35,1389,2018-12-23
+"906",2019-05-21,"bez wy¿ywienia","Exim Tours","Costa Dorada","Salou",NA,"Best San Francisco",4,"518872",NA,1459,2018-12-23
+"907",2019-05-21,"œniadania","Exim Tours","Costa Brava","Lloret de Mar",4.4,"Guitart Gold Central Park Resort & Spa",4,"510482",NA,1549,2018-12-23
+"908",2019-05-16,"œniadania i obiadokolacje","Prima Holiday","Majorka","Arenal",8.4,"HSM Reina del Mar",3,"521924",NA,1654,2018-12-23
+"909",2019-03-05,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"RH Royal (Benidorm)",4,"494373",NA,1659,2018-12-23
+"910",2019-05-12,"œniadania","Exim Tours","Costa de la Luz","Cartaya",NA,"Nuevo Portil Golf",4,"516789",NA,1669,2018-12-23
+"911",2019-05-16,"œniadania i obiadokolacje","Prima Holiday","Majorka","Cala Mayor",NA,"Blue Bay (Cala Mayor)",3.5,"519977",NA,1671,2018-12-23
+"912",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"RH Royal (Benidorm)",4,"516815",NA,1719,2018-12-23
+"913",2019-05-18,"œniadania","Ecco Holiday","Costa Brava","Calella",6.3,"Esplai",3,"518418",25,1779,2018-12-23
+"914",2019-05-04,"œniadania i obiadokolacje","Wezyr","Costa Brava","Malgrat De Mar",7.9,"Papi",3,"187745",85,1833,2018-12-23
+"915",2019-05-11,"œniadania","Wezyr","Costa Brava","Lloret de Mar",NA,"Acacias",4,"324499",NA,1843,2018-12-23
+"916",2019-05-04,"œniadania","Wezyr","Costa Brava","Tossa De Mar",8.6,"GHT Neptuno",3,"355678",NA,1847,2018-12-23
+"917",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Rh Corona del Mar",4,"516816",NA,1869,2018-12-23
+"918",2019-05-21,"trzy posi³ki","Prima Holiday","Costa Brava",NA,4.5,"H-TOP Royal Sun Suites",4,"519920",NA,1872,2018-12-23
+"919",2019-03-05,"œniadania","Exim Tours","Costa Blanca","Benidorm",NA,"Rh Corona del Mar",4,"502134",NA,1889,2018-12-23
+"920",2019-04-28,"œniadania i obiadokolacje","Ecco Holiday","Costa Brava","Malgrat de Mar",7.9,"Sorra Daurada Splash",4,"518927",24,2000,2018-12-23
+"921",2019-03-24,"œniadania","Prima Holiday","Majorka","Playa de Palma",NA,"Hipotels Gran Playa de Palma",4,"518484",NA,2365,2018-12-23
+"922",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Puerto de la Cruz",4.9,"Pez Azul",3,"499988",NA,2418,2018-12-23
+"923",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Alicante",NA,"Porta Maris Spa",4,"516990",NA,2549,2018-12-23
+"924",2019-03-24,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",4.9,"Pez Azul",3,"491045",NA,2576,2018-12-23
+"925",2019-05-07,"œniadania i obiadokolacje","Neckermann","Lanzarote","Puerto Calero - Yaiza",7.3,"Costa Calero",4,"211924",NA,2705,2018-12-23
+"926",2019-03-24,"œniadania","Prima Holiday","Majorka","Playa de Palma",NA,"Hipotels Gran Playa de Palma",5,"518698",NA,2737,2018-12-23
+"927",2019-05-16,"œniadania","Prima Holiday","Majorka","Playa de Palma",NA,"Hipotels Gran Playa de Palma",4,"520469",NA,2768,2018-12-23
+"928",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,NA,"Nayra Bungalows",4,"491956",NA,2799,2018-12-23
+"929",2019-04-21,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",9.4,"Best Semiramis",5,"490069",48,2915,2018-12-23
+"930",2019-05-06,"All Inclusive","Rainbow","Costa del Sol","Torremolinos",7.9,"Las Palomas",4,"463645",31,2942,2018-12-23
+"931",2019-05-18,"œniadania i obiadokolacje","Itaka","Lanzarote","Puerto del Carmen",NA,"Gloria Izaro Club",4,"509471",NA,2959,2018-12-23
+"932",2019-05-16,"All Inclusive","Rainbow","Fuerteventura","Jandia",NA,"SBH Maxorata Resort (ex SBH Jandia Resort)",4,"507286",NA,3330,2018-12-23
+"933",2019-05-17,"œniadania i obiadokolacje","Rainbow","Gran Canaria","Playa del Ingles",NA,"Suite Hotel Playa del Ingles",4,"507235",NA,3349,2018-12-23
+"934",2019-05-03,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Playa del Inglés",9.3,"Gran Canaria Princess",4.5,"263859",NA,3507,2018-12-23
+"935",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",NA,"Guayarmina Princess",4,"494666",NA,3556,2018-12-23
+"936",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Costa Adeje",8.7,"Iberostar  Las Dalias",4,"247708",38,3609,2018-12-23
+"937",2019-03-09,"œniadania","Exim Tours","Gran Canaria",NA,7.5,"Parque Tropical (Playa del Ingles)",3,"491936",NA,3629,2018-12-23
+"938",2019-05-12,"Wszystko w cenie","Neckermann","Teneryfa","Costa Adeje",8.7,"Iberostar Las Dalias",4,"371264",38,3794,2018-12-23
+"939",2019-05-07,"Wszystko w cenie","Neckermann","Lanzarote","Puerto Calero - Yaiza",7.3,"Costa Calero",4,"519608",NA,3960,2018-12-23
+"940",2019-05-12,"œniadania","Neckermann","Teneryfa","La Caleta",10,"Sheraton La Caleta",5,"180258",20,4040,2018-12-23
+"941",2019-05-11,"œniadania","Itaka & Gala","Lanzarote","Playa Blanca",NA,"Princesa Yaiza Suite",5,"442230",NA,4049,2018-12-23
+"942",2019-04-05,"œniadania","Neckermann","Gran Canaria","Playa del Inglés",6.8,"Santa Monica",4.5,"369084",NA,4157,2018-12-23
+"943",2019-04-05,"œniadania","Neckermann","Gran Canaria","Playa del Inglés",6.8,"Santa Monica",4.5,"369085",NA,4157,2018-12-23
+"944",2019-04-05,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Playa del Ingles",9.4,"Parque Cristobal Gran Canaria",3.5,"498737",NA,4329,2018-12-23
+"945",2019-05-12,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",9.6,"Botanico & The Oriental Spa Garden",5,"218342",NA,4374,2018-12-23
+"946",2019-04-05,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Playa del Inglés",6.8,"Santa Monica (Playa del Ingles)",4.5,"449036",NA,4629,2018-12-23
+"947",2019-05-14,"œniadania i obiadokolacje","Neckermann","Lanzarote","Puerto del Carmen",8.5,"Vik San Antonio",4,"217283",NA,4657,2018-12-23
+"948",2019-04-05,"œniadania","Neckermann","Gran Canaria","Playa del Inglés",6.8,"Santa Monica",4.5,"369086",NA,4697,2018-12-23
+"949",2019-05-12,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",9.6,"Botanico and The Oriental Spa",5,"494031",NA,4928,2018-12-23
+"950",2019-04-28,"œniadania","Neckermann","Fuerteventura","Caleta de Fuste",9.2,"Sheraton Fuerteventura",5,"13314",NA,6340,2018-12-23
+"951",2019-05-21,"bez wy¿ywienia","Exim Tours","Costa Dorada","Salou",7.4,"Best Mediterraneo",3,"522612",NA,1579,2018-12-23
+"952",2019-04-02,"œniadania i obiadokolacje","Ecco Holiday","Costa Brava","Lloret de Mar",7.5,"Miramar (Lloret de Mar)",4.5,"472982",NA,1681,2018-12-23
+"953",2019-04-02,"œniadania","Exim Tours","Costa del Sol","Torremolinos",NA,"Fenix (ex. Summa Fenix)",4,"509965",NA,1699,2018-12-23
+"954",2019-05-12,"œniadania","Exim Tours","Costa de la Luz","El Rompido",7.8,"Sentido Garden Playanatural (ex Cartaya Garden)",4,"516811",NA,1769,2018-12-23
+"955",2019-03-04,"œniadania i obiadokolacje","Itaka","Costa del Sol","Benalmadena",8.7,"Balmoral (Benalmadena)",3,"442078",101,1789,2018-12-23
+"956",2019-05-16,"œniadania i obiadokolacje","Prima Holiday","Majorka","Arenal",NA,"Mediterranean Bay",3,"521926",NA,1886,2018-12-23
+"957",2019-03-05,"œniadania","Ecco Holiday","Costa del Sol","Benalmádena",NA,"Ibersol Alay",4,"514367",NA,1917,2018-12-23
+"958",2019-05-04,"œniadania","Wezyr","Costa Brava","Lloret de Mar",NA,"Mundial Club",3,"281200",NA,1954,2018-12-23
+"959",2019-03-03,"œniadania","Prima Holiday","Majorka","Playa de Palma",9,"Caballero",4,"518483",37,1999,2018-12-23
+"960",2019-04-02,"œniadania","Ecco Holiday","Costa del Sol","Torremolinos",NA,"MS Aguamarina Suites (Torremolinos)",4,"514368",NA,2044,2018-12-23
+"961",2019-05-05,"œniadania","Prima Holiday","Majorka","Playa de Palma",9,"Caballero",4,"519982",37,2128,2018-12-23
+"962",2019-04-07,"œniadania","Prima Holiday","Majorka","Can Pastilla",7.6,"Nautic & Spa (ex lti Fashion)",4,"521927",NA,2134,2018-12-23
+"963",2019-03-16,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,NA,"Cantur City",4,"516924",NA,2159,2018-12-23
+"964",2019-03-31,"œniadania i obiadokolacje","Prima Holiday","Majorka","Can Pastilla",7.6,"Nautic & Spa (ex lti Fashion)",4,"520467",NA,2191,2018-12-23
+"965",2019-04-02,"œniadania","Exim Tours","Costa Blanca","Alicante",NA,"Abba Centrum Alicante",4,"516988",NA,2219,2018-12-23
+"966",2019-03-09,"œniadania","Exim Tours","Teneryfa",NA,NA,"La Paz",4,"491894",NA,2229,2018-12-23
+"967",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Puerto de la Cruz",5.6,"Masaru",3.5,"505083",NA,2246,2018-12-23
+"968",2019-04-04,"bez wy¿ywienia","Neckermann","Fuerteventura","Costa Calma",8.8,"Morasol Apart",3,"460680",NA,2265,2018-12-23
+"969",2019-05-04,"œniadania i obiadokolacje","Rainbow","Costa Brava","Santa Susanna",8.4,"Florida Park",4,"182684",42,2280,2018-12-23
+"970",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,NA,"Cordial Sandy Golf",1,"493401",NA,2319,2018-12-23
+"971",2019-04-04,"bez wy¿ywienia","Neckermann","Fuerteventura","Costa Calma",NA,"Morasol Atlantico",3,"460681",NA,2384,2018-12-23
+"972",2019-04-21,"œniadania","Neckermann","Teneryfa","Puerto de la Cruz",6.1,"San Telmo (Puerto de la Cruz)",3,"493989",69,2418,2018-12-23
+"973",2019-04-02,"œniadania i obiadokolacje","Ecco Holiday","Costa Brava","Lloret de Mar",NA,"Helios",4,"230313",NA,2568,2018-12-23
+"974",2019-04-04,"œniadania","Neckermann","Fuerteventura","Caleta de Fuste",7.9,"Cay Beach Caleta",3,"500205",NA,2571,2018-12-23
+"975",2019-05-12,"bez wy¿ywienia","Neckermann","Teneryfa","Puerto de la Cruz",5.6,"Masaru",3.5,"505065",NA,2585,2018-12-23
+"976",2019-03-23,"bez wy¿ywienia","Exim Tours","Gran Canaria","Playa del Ingles",8.7,"AxelBeach Maspalomas Apartments Lounge",3,"491870",NA,2699,2018-12-23
+"977",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,7.3,"Cordial Biarritz",3,"493406",NA,2779,2018-12-23
+"978",2019-03-09,"bez wy¿ywienia","Exim Tours","Gran Canaria",NA,NA,"Rocas Rojas",2,"491928",NA,2789,2018-12-23
+"979",2019-03-23,"œniadania i obiadokolacje","Ecco Holiday","Gran Canaria","Playa del Ingles",7.3,"Rondo",4,"396541",57,2961,2018-12-23
+"980",2019-04-05,"bez wy¿ywienia","Neckermann","Gran Canaria","Maspalomas",8.4,"Green Golf",3.5,"498680",NA,3094,2018-12-23
+"981",2019-04-26,"bez wy¿ywienia","Neckermann","Gran Canaria","Maspalomas",8.4,"Cordial Green Golf",3.5,"498682",NA,3268,2018-12-23
+"982",2019-04-26,"bez wy¿ywienia","Neckermann","Gran Canaria","Maspalomas",8.4,"Cordial Green Golf",3.5,"498683",NA,3268,2018-12-23
+"983",2019-05-12,"œniadania i obiadokolacje","Neckermann","Teneryfa","Callao Salvaje",3.7,"Grand Hotel Callao (ex Callo Sport)",4,"501866",NA,3276,2018-12-23
+"984",2019-05-16,"œniadania","Prima Holiday","Majorka","Playa de Palma",NA,"Hipotels Playa de Palma Palace",5,"520470",NA,3306,2018-12-23
+"985",2019-05-12,"œniadania","Neckermann","Teneryfa","Guimar",NA,"Rural Finca Salamanca",3,"493642",NA,3329,2018-12-23
+"986",2019-04-12,"œniadania i obiadokolacje","Neckermann","Gran Canaria","Playa del Ingles",8.1,"Eugenia Victoria",4,"203173",NA,3334,2018-12-23
+"987",2019-04-02,"bez wy¿ywienia","Exim Tours","Costa Blanca","Alicante",NA,"Melia Alicante",4,"516991",NA,3359,2018-12-23
+"988",2019-04-01,"œniadania","Exim Tours","Costa del Sol","Marbella",NA,"Fuerte Marbella",4,"517149",NA,3469,2018-12-23
+"989",2019-03-02,"œniadania i obiadokolacje","Ecco Holiday","Gran Canaria","Playa del Ingles",8.7,"Caserio",4,"314916",25,3482,2018-12-23
+"990",2019-05-03,"œniadania i obiadokolacje","Rainbow","Gran Canaria","Playa del Ingles",7.5,"Labranda Marieta (ex. Valentin)",4,"359579",NA,3530,2018-12-23
+"991",2019-05-21,"œniadania i obiadokolacje","Itaka & Gala","Gran Canaria","Meloneras",8.6,"Lopesan Villa Del Con",5,"442390",NA,3609,2018-12-23
+"992",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",8.5,"Iberostar Sabila (ex Iberostar Torviscas Playa)",5,"199329",NA,3633,2018-12-23
+"993",2019-04-12,"œniadania","Neckermann","Gran Canaria","Las Palmas",10,"Reina Isabel (Las Palmas)",4.5,"498694",NA,3745,2018-12-23
+"994",2019-05-12,"œniadania","Neckermann","Teneryfa","Costa Adeje",8.5,"Iberostar Sabila (ex Iberostar Torviscas Playa)",5,"371262",NA,3817,2018-12-23
+"995",2019-03-23,"œniadania i obiadokolacje","Ecco Holiday","Gran Canaria","Playa del Ingles",9.1,"Escorial",3,"468109",NA,3846,2018-12-23
+"996",2019-03-09,"œniadania i obiadokolacje","Ecco Holiday","Gran Canaria","Playa del Ingles",8.1,"Eugenia Victoria",3,"468108",NA,3846,2018-12-23
+"997",2019-04-26,"bez wy¿ywienia","Neckermann","Gran Canaria","Maspalomas",8.4,"Cordial Green Golf",3.5,"519112",NA,3904,2018-12-23
+"998",2019-04-26,"bez wy¿ywienia","Neckermann","Gran Canaria","Maspalomas",8.4,"Cordial Green Golf",3.5,"519084",NA,3904,2018-12-23
+"999",2019-05-05,"œniadania","Neckermann","Teneryfa","Costa Adeje",NA,"Baobab Suites",5,"494667",NA,4057,2018-12-23
+"1000",2019-05-09,"Wszystko w cenie","Neckermann","Gran Canaria","Playa del Inglés",8.3,"Ifa Continental",3.5,"199327",72,4058,2018-12-23

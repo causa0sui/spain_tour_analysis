@@ -1,0 +1,450 @@
+---
+title: "Analiza wakacji w Hiszpanii"
+author: "Pavlo Melnyk"
+subtitle: Projekt zaliczeniowy z R
+output:
+  html_document:
+    toc: yes
+    toc_depth: 2
+  pdf_document:
+    toc: yes
+    toc_depth: '2'
+  word_document:
+    toc: yes
+    toc_depth: '2'
+---
+###Spis treœci
+
+1. [Wstêp](#introduction)
+2. [Pocz¹tek analizy](#paragraph1)
+3. [Regresja liniowa i drzewo decyzyjne](#paragraph2)
+4. [Analiza *ggplot*](#paragraph3)
+    1. [*encircle*](#sub1)
+    2. [*bubble*](#sub2)
+    3. [*violin*](#sub3)
+    4. [*lollipop*](#sub4)
+    5. [*waffle*](#sub5)
+    6. [*klastry*](#sub6)
+    7. [*mapa*](#sub7)
+5. [Podsumowanie](#paragraph4)
+
+
+###**Wstêp**<a name="introduction"></a>
+
+Zbiór danych wykorzystany w niniejszym projekcie zosta³ pobrany przy pomocy skryptu, który z kolei pobra³ dane ze strony internetowej Wakacje.pl. 
+Zbiór zawiera 1000 obserwacji o 7-dniowych wycieczkach do Hiszpanii dla 2 osób mo¿liwych do realizacji w terminach od *1 marca 2019* do *30 maja 2019*. Przy ponownym pobraniu ze strony i za³adowaniu nowego zbioru danych zawarte w tym projekcie wykresy i wartoœci bêd¹ mia³y inne znaczenia, czyli opisy do nich ju¿ nie bêd¹ aktualne.
+Zbiór danych zawiera informacje o **dacie wyjazdu**, **organizatorze wyjazdu**, **cenie za osobê** w PLN, **ogólnej ocenie wycieczki** (od 1 do 10),  **gwiazdkach hotelu** (od 1 do 5), **ogólnej liczbie rezerwacji** ka¿dej z obserwacji itd. Projekt ma na celu przeanalizowanie propozycji 7-dniowych wyjazdów realizowanych przez ró¿ne biura podró¿y oraz wyci¹gniêcie odpowiednich wniosków z analizy. 
+
+***
+
+####Poni¿ej znajduje siê kilka pierwszych zmiennych i obserwacji z analizowanego zbioru danych:
+
+```{r intro, warning=FALSE, fig.align='center'}
+knitr::opts_chunk$set(fig.align = "center") 
+d <- read.csv('C:\\Wszystko\\Studia mgr\\Prezentacja i wizualizacja danych\\Projekt\\projekt_r_pmelnyk\\wyniki.csv', header = TRUE, sep = ',')
+
+library(formattable)
+library(magrittr)
+
+formattable(d[,c('organizator', 'cena_za_osobe', 'region', 'hotel_gwiazdki', 'ocena_wycieczki')]) %>% head()
+
+```
+Dla lepszej czytelnoœci tabeli wykorzystano pakiet ```formattable```.
+
+Pe³na lista zmiennych modelu to:
+
+```{r, zmienne}  
+colnames(d)[2:13]
+```
+
+###**Wstêpna analiza zbioru danych oraz jego g³ównych sk³adowych**<a name="paragraph1"></a>
+
+
+####Spis i wykres ko³owy firm turystycznych oferuj¹cych wycieczki spe³niaj¹ce wspominane wy¿ej kryteria
+
+
+```{r org}
+par(mfrow = c(1,1))
+print(levels(factor(d$organizator)))
+#pie chart organizatorów
+slices <- table(d$organizator)
+lbls <- levels(factor(d$organizator))
+pct <- round(slices/sum(slices)*100, 10)
+lbls <- paste(lbls, pct) # add percents to labels 
+lbls <- paste(lbls,"%",sep="") # ad % to labels 
+pie(slices,labels = lbls, col=rainbow(length(lbls)),
+    main="Wykres ko³owy firm turystycznych", col.main = 'coral2')
+```
+
+
+Z wykresu wynika, ¿e w danym segmencie czasowym dominuj¹ firmy *Exim Tours* - 33% wszystkich podró¿y, *Neckermann* - 27,2%, *Rainbow* - 12,2%.
+
+Spójrzmy teraz, jak internauci ocenili wycieczki zorganizowane przez wszystkie firmy.
+
+```{r ocenyhist}
+par(mfrow = c(1,1))
+hist(d$ocena_wycieczki, col = 'lightgreen', xlab = 'Ocena wycieczki', ylab = 'Czêstoœæ', main = 'Histogram ocen wycieczek', col.main = 'coral2')
+```
+
+Okazuje siê, ¿e w wiêkszoœci oceny by³y bardziej pozytywne ni¿ negatywne. Rozk³ad ocen jest zbli¿ony do normalnego ze œredni¹ 7-8 pkt z 10.
+
+```{r ceny2firm}
+#rozk³ad cen dwóch najwiêkszych firm
+par(mfrow = c(1,1))
+plot(density(d[d$organizator=='Exim Tours',]$cena_za_osobe),main = 'Rozk³ad cen firmy Exim Tours i Neckermann', col.main = 'red', col = "#009999", lwd = 3, lty = 2, col.lab = 'blue4', ylab = 'Czêstoœæ')
+lines(density(d[d$organizator=='Neckermann',]$cena_za_osobe), col = "#0000FF", lwd = 3, lty = 2, col.lab = 'blue4')
+legend('topright',legend=c("Exim Tours","Neckermann"),
+       col=c("#009999","#0000FF"),pch=c(8,9))
+```
+
+Z podanych wy¿ej histogramów mo¿na ju¿ wywnioskowaæ, ¿e z dwóch najpopularniejszych organizatorów firma *Neckermann* jest o wiele dro¿sza ni¿ firma *Exim Tours*. Ceny wycieczek tej pierwszej w wiêkszoœci przekraczaj¹ 3000 z³ podczas gdy cen tej drugiej s¹ w wiêkszoœci ni¿sze ni¿ 2000 z³.  
+
+Poni¿ej mo¿emy obserwowaæ rozk³ady cen jeszcze czterech firm, których udzia³ procentowy jest mniejszy ni¿ dwóch poprzednich.
+
+```{r ceny4firm}
+#rozk³ad cen jeszcze 4 firm
+par(mfrow=c(2,2))
+pie <- c('Rainbow', 'Itaka', 'Wezyr', 'Ecco Holiday')
+#cols <- c("#009999", "#0000FF", "#993300", "#660033")
+for (i in pie) {
+  plot(density(d[d$organizator==i,]$cena_za_osobe), main = paste("Rozk³ad cen firmy", i), 
+       xlab = "Cena w PLN", col.main = 'coral2', col.lab = 'blue4', col = "#993300", lwd = 3, lty = 2)
+}
+```
+
+Z rozk³adów cen widzimy, ¿e najwiêjsze ich spektrum oferuje *Ecco Holiday* - ceny od ok. 1000 z³ a¿ do 5000 z³, z czego wiêkszoœæ ofert skupia siê wokó³ ceny 2000 z³. *Rainbow* równie¿ oferuje ceny od ponad 1000 z³ do 5000 z³, lecz tutaj wiêkszoœæ cen oscyluje w granicy 2500 z³. *Itaka* oferuje w wiêkszoœci ceny ok 3000 z³, ale tak¿e mo¿emy z ni¹ pojechaæ na luksusowe wycieczki za ponad 8000 z³. Najmniejszym przedzia³em cenowym charakteryzuje siê firma Wezyr, od 1400 z³ do 2400 z³ za osobê z najwiêksz¹ liczb¹ ofert pomiêdzy 1800 a 2000 z³.
+
+
+```{r lattice, fig.width=20, fig.height=10}
+library(lattice)
+xyplot(cena_za_osobe ~ termin_wycieczki, d, scales=list(y=list(rot=0), x=list(rot=45,equispaced.log = FALSE)), 
+       group = organizator, xlab = 'Data wyjazdu', ylab = 'Cena za osobê',
+       auto.key = list(title="Ceny wg dat dla poszczególnych firm", 
+                                            x=0.05,y=0.95, cex=0.8, just = 0.95),
+       par.settings = list(superpose.symbol = list(pch = 19, cex = 1.5)), col.lab = 'blue4')
+```
+
+A na tym wykresie widzimy (trochê s³abo, ale widzimy) ceny dla ro¿nych terminów wyjazdu. Jak mo¿na siê domyœliæ, najwiêcej jest ofert z terminem rozpoczêcia przed weekendem, *np. 9 i 28 marca*. Z kolei najmniej wyjazdów rozpoczyna siê we wtorki, *np. 19 marca*. 
+
+```{r bwplot}
+
+bwplot(d$cena_za_osobe~d$region, scales=list(y=list(rot=0), x=list(rot=45)), col = 'black',
+       ylab = 'Cena za osobê', xlab = 'Region', main = "Ceny dla poszczególnych regionów", col.main = 'coral2', col.lab = 'blue4')
+```
+
+Z regionów najdro¿szymi okaza³a siê **Fuerteventura**, **Gran Canaria** oraz **Teneryfa** i **Lanzarote**, gdzie w ostatnim regionie znalaz³a siê najdro¿sza w zbiorze danych wycieczka - a¿ ponad **12000 z³** za osobê!
+
+```{r hist}
+histogram(~d$region, scales=list(y=list(rot=0), x=list(rot=45)), col = 'lightblue',
+          xlab = 'Region', main = "Popularnoœæ regionów wœród turystów", col.main = 'coral2', col.lab = 'blue4')
+```
+
+Najbardziej popularn¹ hiszpañsk¹ destynacj¹ wœród propozycji organizatorów okaza³a siê **Teneryfa** - ponad 25% wyników wyszukiwania stanowi¹ tutejsze oferty. Dalej znajduj¹ siê **Gran Canaria** - ok 16% oraz **Costa Brava** - ok 12,5%. Teneryfa oraz s¹siednia wyspa Gran Canaria s¹ czêsto nazywane *kontynentem w miniaturze* ze wzglêdu na kilka typów krajobrazu i kilka stref klimatycznych na nich wystêpuj¹cych. Spowodowane jest to tym, ¿e Wyspy Kanaryjskie znajduj¹ siê blisko wybrze¿a Afryki o bardzo dynamicznym klimacie.  Najmniej ofert mo¿emy znaleŸæ w kierunku **Andaluzji**, **Barcelony** i **Lanzarote**, mimo bogatego dziedzictwa architektonicznego, przyrodniczego oraz kulturowego - ka¿da ok. 1% wszystkich obserwacji.
+
+
+###**Analiza predykcyjna - regresja i drzewo decyzyjne**<a name="paragraph2"></a>
+
+W tej czêœci raportu przeprowadzê analizê modelu regresji liniowej oraz drzewa decyzyjnego zastosowanego do posiadanego zbioru danych. Pierwszy prosty model *m1* bêdzie wyjaœniaæ wartoœci zmiennej *cena_za_osobe* na podstawie zmiennej objaœniaj¹cej *ocena_wycieczki*. Drugi model *m2* regresji liniowej bêdzie zawieraæ wiêcej zmiennych. PóŸniej *m1* i *m2* mo¿na bêdzie porównaæ i dowiedzieæ siê, czy wiêksza liczba zmiennych objaœniaj¹cych istotnie wp³ynê³a na jakoœæ modelu.
+
+####m1
+
+```{r regresja1}
+m1<- lm(cena_za_osobe~ocena_wycieczki, data = d)
+summary(m1)
+plot(d$cena_za_osobe~d$ocena_wycieczki, xlab="Ocena wycieczki w skali od 1 do 10", ylab="Cena", 
+     col.main = 'coral2', col = 'blue2', col.lab = 'blue4', main = 'Ilustracja obserwacji')
+abline(m1, col='red')
+legend("topleft", legend=c("realne wartoœci","wartoœci modelu"), col=c("black","red"), pch=c(1,NA), lty=c(NA,2), bty="n")
+print('Kilka wyestymowanych wartoœci modelu:')
+m1$fitted.values %>% head()
+```
+
+
+Z pierwszego modelu widzimy, ¿e statystyka **R^2** ma bardzo nisk¹ wartoœæ - *0,09*, co oznacza, ¿e zmienna *ocena_wycieczki* tylko w 9% wyjaœnia wartoœæ zmiennej *cena_za_osobê*, czyli z tego wynika, ¿e lepsze oceny wycieczek nie zawsze id¹ w parze z wysokimi cenami. Wspó³czynnik zmiennej *ocena_wycieczki* jest dodatni, wskazuje to na dodatnie nachylenie wyestymowanej prostej.
+
+
+Zmienna *ocena_wycieczki* jest istotna o wartoœci *p-value* równej $2*10^{-16}$, czyli istotnie mniejszej od poziomu istotnoœci 0,05.
+Wartoœæ *p-value* $2,2 * 10^{-16}$ statystyki **F** wskazuje na ³¹czn¹ istotnoœæ modelu *m1*.
+255 wartoœci zosta³o usuniêtych z powodu braku danych, poniewa¿ nie ka¿da wycieczka mia³a ogóln¹ ocenê podró¿ników, czyli algorytm zignorowa³ wartoœci ```NA```.
+
+
+Na wykresie powy¿ej mo¿na zauwa¿yæ liniê dopasowuj¹c¹ rozproszone wartoœci cen dla poszczególnych ocen podró¿y. Zauwa¿alny jest lekki trend wzrostowy, im wy¿sze zadowolenie z wycieczek, tym wiêcej za nie trzeba by³o zap³aciæ.
+
+Na podstawie wyestymowanych wartoœci, które le¿¹ na czerwonej linii mo¿na przewidywaæ ceny  wycieczek dla innych zbiorów testowych.
+
+Poni¿ej przeanalizowane s¹ reszty modelu *m1*.
+
+```{r regresja2}
+hist(m1$residuals,main = 'Histogram reszt modelu m1', xlab = 'Wartoœci reszt', ylab = 'Czêstoœæ wystêpowania',
+     breaks = 50, col.main = 'coral2', col = 'lightgreen', col.lab = 'blue4')
+shapiro.test(m1$residuals)
+```
+
+Z histogramu reszt modelu wynika, ¿e reszty maj¹ rozk³ad zbli¿ony do normalnego. Test *Shapiro - Wilka* wskazuje na normalnoœæ rozk³adu reszt, dlatego, ¿e *p-value* tego testy wynosi $5,799 * 10^{-15}$. 
+
+####m2
+
+```{r regresja3}
+set.seed(15686666)
+s <- sample.int(nrow(d), floor(0.75*nrow(d)), replace = FALSE)
+d.train <- d[s,]
+d.test <- d[-s,]
+m2 <- lm(cena_za_osobe~ocena_wycieczki+
+            hotel_gwiazdki+
+            liczba_rezerwacji+
+           organizator+
+           region, data = d.train)
+summary(m2)
+
+```
+
+```{r print, echo=FALSE}
+print('Liczba wartoœci NA zmiennej liczba_rezerwacji:')
+sum(is.na(d$liczba_rezerwacji)) #za du¿o braku danych, dlatego zmienna jest nieistotna
+print('Liczba wartoœci NA zmiennej hotel_gwiazdki:')
+sum(is.na(d$hotel_gwiazdki))
+```
+
+
+W modelu *m2* wyjaœniana jest *cena za osobê*, przy pomocy wiêkszej liczby zmiennych. W tym przypadku wartoœæ **R^2** wynosi a¿ *0,67* - to jest znacz¹co lepszy wynik ni¿ w modelu m1. Oznacza to, ¿e cenê w tym modelu uda³o siê wyjaœniæ a¿ w 67% przy pomocy zmiennych objaœnianych, a wiêc wiêksza liczba zmiennych pozytywnie wp³ywa na efektywnoœæ modelu.
+
+Najwiêkszym poziomem istotnoœci wykaza³a siê zmienna *hotel_gwiazdki*. Wspó³czynnik przy tej zmiennej wynosi *414,3*, co jest zgodne z logik¹, bo im wiêcej gwiazdek ma hotel, tym wiêksza cena za osobê (ka¿da dodatkowa gwiazdka zwiêksza cenê za osobê œrednio o *414 z³*). 
+*ocena_wycieczki* równie¿ jest zmienn¹ istotn¹ o dodatnim wspó³czynniku, tak jak w modelu *m1*. Zmienne *organizator* i *region* algorytm podzieli³ na odpowiedni¹ iloœæ zmiennych kategoryzuj¹cych.
+*liczba_rezerwacji* okaza³a siê nieistotna. Jednym z powodów jest obecnoœæ du¿ej iloœci wartoœci ```NA``` - a¿ 573!
+
+430 obserwacji zosta³o usuniêtych podczas analizy z powodu braków danych ```NA```, w wiêkszoœci zawartych w zmiennej *liczba_rezerwacji*.
+Statystyka **F** wraz z *p-value* $2,2 * 10^{-16}$ wskazuje na ³¹czn¹ istotnoœæ modelu *m2*.
+Dalej zobaczmy analizê reszt tego modelu.
+
+```{r regresja4}
+hist(m2$residuals,main = 'Histogram reszt modelu m2', xlab = 'Wartoœci reszt', ylab = 'Czêstoœæ wystêpowania',
+     breaks = 50, col.main = 'coral2', col = 'lightgreen', col.lab = 'blue4')
+shapiro.test(m2$residuals)
+```
+
+Na histogramie powy¿ej mo¿na zobaczyæ rozk³ad reszt zbli¿ony do normalnego lecz z zauwa¿alnymi resztami odstaj¹cymi na krañcach. Test *Shapiro-Wilka* z wartoœci¹ *p-value* równ¹ $8,935 * 10^{-12}$.
+
+Nastêpnym elementem analizy predykcyjnej bêdzie drzewo decyzyjne.
+
+####Drzewo decyzyjne
+
+```{r drzewo, message=FALSE, warning=FALSE}
+library(rpart)
+library(rpart.plot)
+dt <- rpart(cena_za_osobe ~ ocena_wycieczki+hotel_gwiazdki+liczba_rezerwacji+region+organizator+wyzywienie,
+            data = d)  
+par(mfrow = c(1,1))
+printcp(dt)
+plotcp(dt)
+prp(dt)
+```
+
+Jak widaæ z wykresu rozmiaru drzewa i wartoœci relatywnego blêdu optymalnym rozmiarem drzewa jest 7.
+Na koñcach drzewa zawarte s¹ prognozy cen dla obserwacji, które spe³niaj¹ zawarte po drodze kryteria.
+
+###**Wizualizacja zbioru danych przy pomocy *ggplot***<a name="paragraph3"></a>
+
+<a name="sub1"></a>
+Na **pierwszym** wykresie widzimy zawarte w czerwonym polu ceny powy¿ej 6000 z³ oraz ocenione wy¿ej ni¿ na 6 pkt. Wycieczki te oferuj¹ 4-5 gwiazdkowe hotele oraz najdro¿sze destynacje, takie jak *Fuerteventura*, *Gran Canaria* i *Teneryfa*. Wydzieliæ obszar na czerwono uda³o siê przy pomocy funkcji ```encircle``` z pakietu ```ggalt```. ```geom_smooth``` narysowa³ krzyw¹ regresji ceny do oceny ka¿dej z wycieczek.
+
+```{r encircle, fig.height=6, warning=FALSE, message=FALSE, error=FALSE}
+#GGPLOT - zawiera sie w tidyverse
+library(tidyverse)
+#ENCIRCLE
+library(ggalt)
+d.select1 <- d[d$cena_za_osobe>6000 & d$ocena_wycieczki > 6,]
+
+theme_set(theme_bw())
+ggplot(d, aes(y = cena_za_osobe, x = ocena_wycieczki))+
+  geom_point(aes(col = region, size = hotel_gwiazdki), na.rm = TRUE)+
+  geom_smooth(method = 'loess', se = F, na.rm = TRUE, col = 'black')+ ylim(c(1000,10000))+
+  geom_encircle(aes(y=cena_za_osobe, x=ocena_wycieczki), 
+                data=d.select1, 
+                color="red", 
+                size=2, 
+                expand=0.05, na.rm = TRUE)+
+  labs(y="Cena za osobê", 
+       x="Ocena wycieczki", 
+       title="Ocena vs. Cena")+ theme(legend.position = 'right')
+
+```
+<a name="sub2"></a>
+Na **drugim** wykresie poni¿ej widzimy rozk³ad cen dla poszczególnych ocen wycieczek dla trzech wybranych firm wraz z prostymi regresji liniowej dla ka¿dej z nich. Po raz kolejny upewniamy siê, ¿e firma *Neckermann* oferuje najdro¿sze podró¿e (œrednio ponad 3000 z³ za osobê) w przewa¿nie 4-5 gwiazdkowych hotelach, podczas gry *Exim Tours* ma w ofercie tañsze wyjazdy do Hiszpanii w 3-gwiazdkowych i ni¿ej hotelach, jak i równie¿ w 4-5 gwiazdkowych. *Itaka* znalaz³a siê w œrednim przedziale cenowym. Krzywe regresji wskazuj¹ na to, ¿e dla ka¿dej z firm wraz z polepszeniem siê ocen wycieczek roœnie ich cena. 
+
+```{r bubbleplot}
+d.select2 <- d[d$organizator %in% c('Exim Tours', 'Neckermann', 'Itaka'),]
+
+theme_set(theme_bw()) #gotowa theme
+
+ggplot(d.select2, aes(y = cena_za_osobe, x = ocena_wycieczki))+ 
+  labs(title = 'Ocena vs. Cena dla wybranych firm', x = 'Ocena', y = 'Cena')+
+  geom_jitter(aes(col = organizator, size = hotel_gwiazdki), na.rm = TRUE)+
+  geom_smooth(aes(col = organizator), method = 'lm', se = F, na.rm = TRUE)+ylim(c(500,10000))
+```
+
+<a name="sub3"></a>
+Z **trzeciego** wykresu typu ```violin``` oraz ```jitter``` odczytujemy, ¿e najwiêcej ocen poni¿ej 5 ma firma *Exim Tours* - a¿ 11, najmniej - *Itaka*, tylko 1. *Neckermann* ma 4 obserwacji poni¿ej 5 pkt. Kszta³t ka¿dego "dzbana" pokazuje rozk³ad ocen dla ka¿dego organizatora.
+
+```{r violin, warning=FALSE}
+#VIOLIN PLOT
+ggplot(d.select2, aes(y = ocena_wycieczki, x = organizator))+ 
+  labs(title = 'Ocena podró¿y dla wybranych firm', x = 'Firma', y = 'ocena')+
+  geom_violin(fill = 'light yellow')+
+  geom_jitter(aes(col = organizator), na.rm = TRUE, shape = 16, position = position_jitter(0.1))+
+  scale_color_brewer(palette="Dark2")
+```
+
+<a name="sub4"></a>
+Dalej rozpatrzmy œrednie ceny ka¿dego z organizatorów i przeanalizujmy œredni koszt podró¿y dla ró¿nych typów wy¿ywienia.
+
+```{r lollipop1}
+#Lollipop PLOT - srednie ceny przewoznikow i typow wyzywienia
+
+d.select3 <- aggregate(d[,12], list(d$organizator), mean)
+d.select4 <- aggregate(d[,12], list(d$wyzywienie), mean)
+colnames(d.select3) <- c('organizator', 'srednia_cena')
+colnames(d.select4) <- c('wyzywienie', 'srednia_cena_wyzywienia')
+d.select3
+d.select4
+
+
+theme_set(theme_bw())
+
+ggplot(d.select3, aes(x = organizator, y = srednia_cena))+
+  geom_point(size=9, col = 'orange') + 
+  geom_segment(aes(x=organizator, 
+                   xend=organizator, 
+                   y=0, 
+                   yend=srednia_cena)) + 
+  labs(title="Wykres srednich cen ka¿dego organizatora") + 
+  theme(axis.text.x = element_text(angle=45, vjust=0.6))
+```
+
+***
+
+```{r lollipop2}
+ggplot(d.select4, aes(x = wyzywienie, y = srednia_cena_wyzywienia))+
+  geom_point(size=9, col = 'pink') + 
+  geom_segment(aes(x=wyzywienie, 
+                   xend=wyzywienie, 
+                   y=0, 
+                   yend=srednia_cena_wyzywienia)) + 
+  labs(title="Wykres œrednich cen typów wyzywienia") + 
+  theme(axis.text.x = element_text(angle=45, vjust=0.6))
+
+
+```
+
+Na **czwartym** wykresie w kszta³cie lizaka stworzonego przy pomocy po³¹czenia ```geom_point``` i ```geom_segment``` widzimy poziom œrednich cen dla ka¿dej firmy. Najtansz¹ firm¹ okaza³ siê *Atur* ze œredni¹ cen¹ 1583 z³, lecz ten organizator reprezentuje jedynie 0,2% wszystkich podró¿y. Najdro¿szymi organizatorami s¹ *Neckermann* - 3928 z³ oraz *Itaka & Gala* - 3852 z³ za osobê. W œrednim przedziale cenowym zawarte s¹ *Rainbow*, *Regent*, *Itaka* oraz wczeœniej wiele razy wspominany *Exim Tours*.
+
+**Pi¹ty** wykres przedstawia ceny podró¿y w zale¿noœci od poszczególnych typów wy¿ywienia. Najdro¿szy typ wyjazdu to *Wszystko w cenie* o œredniej cenie 4169 z³, poniewa¿ zawiera on wy¿ywienie All inclusive, transfery lotniskowe, bilety wstêpów do muzeów i inne atrakcje dla podró¿nych. Typy wy¿ywienia *All inclusive* zawarte s¹ w przedziale od 2809 z³ do 3279 z³. Cena za podró¿ ze *œniadaniami* - 2834 z³ jest o 134 z³ wy¿sza od podró¿y ze *œniadaniami z obiadokolacjami* - 2968 z³. *Trzy posi³ki* œrednio kosztuj¹ 2130 z³, co jest nie do koñca zgodne z logik¹, bo jest to ni¿sza cena ni¿ za same *œniadania* czy nawet cenê *bez wy¿ywienia* - 2133 z³. Spowodowane jest to zró¿nicowaniem cen wœród poszczególnych firm w zale¿noœci od lokalizacji i typów hoteli.
+
+Na podstawie analizy wy¿ej optymalnym jest wybór oferty *trzy posi³ki*'.
+
+
+<a name="sub5"></a>
+Nastêpny, **szósty** wykres przedstawia tabliczkê ```10x10```, któr¹ podzielono na kwadraty w zale¿noœci od liczby obserwacji dla ró¿nych typów wy¿ywienia. Wykonany zosta³ przy pomocy ```geom_tile```. Tabliczka nie zawiera *All Inclusive ultra*, *All Inclusive 24h* i *All Inclusive soft* ze wzglêdu na ma³¹ liczbê obserwacji. Najwiêcej ofert zawiera w sobie tylko *œniadania* oraz *œniadania i obiadokolacje*, najmniej - trzy posi³ki.
+```{r waffle}
+#WAFFLE CHART
+var <- d$wyzywienie   
+
+#robie siatke 10x10
+nrows <- 10
+d.select5 <- expand.grid(y = 1:nrows, x = 1:nrows)
+categ_table <- round(table(var) * ((nrows*nrows)/(length(var))))
+print('Liczba kwadratów dla ka¿dego typu wy¿ywienia:')
+categ_table
+
+
+d.select5$category <- factor(rep(names(categ_table), categ_table))  
+
+#Plot
+ggplot(d.select5, aes(x = x, y = y, fill = category)) + 
+  geom_tile(color = "black", size = 0.5) +
+  scale_x_continuous(expand = c(0, 0)) +
+  scale_y_continuous(expand = c(0, 0), trans = 'reverse') +
+  scale_fill_brewer(palette = "Set3") +
+  labs(title="Podzia³ typów wy¿ywienia na tabeli 10x10") + 
+  theme(panel.border = element_rect(size = 2),
+        plot.title = element_text(size = rel(1.2)),
+        axis.text = element_blank(),
+        axis.title = element_blank(),
+        axis.ticks = element_blank(),
+        legend.title = element_blank(),
+        legend.position = "right")
+#Soft, ultra, 24h za malo, zeby tutaj sie wyswietlilo
+
+```
+<a name="sub6"></a>
+Kolejnym obiektem analizy bêdzie podzia³ na **klastry**. Przy pomocy funkcji ```prcomp``` z pakietu ```ggfortify```, która oblicza elementy *Analizy G³ównych Sk³adowych* - (Principal Components Analysis). Jest to jedna ze statystycznych metod analizy czynnikowej, która s³u¿y odnajdywaniu struktur w zbiorze zmiennych losowych. PCA mo¿e byæ oparta albo na macierzy korelacji, albo macierzy kowariancji utworzonej ze zbioru wejœciowego. W tym przypadku na wykresie s¹ pokazane odchylenia od œredniej ceny dla trzech firm. Klastry trzech biur podró¿y zbudowane na podstawie *ceny_za_osobe* i *oceny_wycieczki*. Nie mo¿na wyraŸnie wyodrêbniæ klastrów, poniewa¿ wszystkie trzy wyraŸnie na siebie nachodz¹. Bardziej po prawej znajduje siê klaster firmy *Neckermann*, po lewej *Exim Tours*. Na œrodku *Ecco Holiday*. Z takiego podzia³u wynika, ¿e pierwsza firma jest dro¿sza i lepiej oceniana ni¿ dwie pozosta³e.
+
+```{r klastry}
+library(ggfortify) #Unified plotting tools for statistics commonly used, such as GLM, time series, PCA families, clustering and survival analysis. - dokumentaja
+theme_set(theme_classic())
+
+df <- na.omit(d[c('organizator', 'cena_za_osobe', 'ocena_wycieczki')])
+
+df1 <- df[df$organizator %in% c('Exim Tours', 'Neckermann', 'Ecco Holiday'),]
+
+df2 <- df1[c(2,3)]
+
+pca_mod <- prcomp(df2)
+
+
+#principal components - Analiza g³ównych sk³adowych - chmura N punktów w przestrzeni K-wymiarowej 
+
+  # Data frame - principal components 
+df_pc <- data.frame(pca_mod$x, Org=df1$organizator)  #dataframe dla principal components
+df_pc_ex <- df_pc[df_pc$Org == "Exim Tours", ]  #df dla Exim Tours
+df_pc_ne <- df_pc[df_pc$Org == "Neckermann", ]  #df dla Neckermann
+df_pc_ec <- df_pc[df_pc$Org == "Ecco Holiday", ]  #df dla Ecco Holiday
+
+#Plot
+ggplot(df_pc, aes(PC1, PC2, col=Org)) + 
+  geom_point(aes(shape=Org), size=3) +  
+  labs(title="Klastry organizatorów") + 
+  coord_cartesian(xlim = 1.1 * c(min(df_pc$PC1), max(df_pc$PC1)), 
+                  ylim = 1.1 * c(min(df_pc$PC2), max(df_pc$PC2))) +   
+  geom_encircle(data = df_pc_ex, aes(x=PC1, y=PC2), size = 2) +   
+  geom_encircle(data = df_pc_ne, aes(x=PC1, y=PC2), size = 2) + 
+  geom_encircle(data = df_pc_ec, aes(x=PC1, y=PC2), size = 2)
+  
+
+```
+<a name="sub7"></a>
+Ostatnim elementem analizy bêdzie mapa Hiszpanii zawieraj¹ca punkty pokazuj¹ce lokalizacje, do których mo¿na pojechaæ zgodnie z pobranym zbiorem danych. Kolorem pokazano podzia³ na regiony. Lokalizacje z Wysp Kanaryjskich nie zosta³y pokazane ze wzglêdu na odleg³oœæ od l¹dowej czêœci Hiszpanii. *Teneryfa* równie¿ zosta³a b³êdnie zlokalizowana. Naprawiæ to mo¿na zmieniaj¹c w ```filter(lon >= -10, lon <= 10, lat >= 20)``` parametry na *-30*, *30* i *0* odpowiednio, jednak dla wiêkszej czytelnoœci wykresu zostawi³em tylko l¹dow¹ czêœæ Hiszpanii z pobliskimi wyspami. *Wycieczki objazdowe* nie posiadaj¹ jednego punktu na mapie.
+
+```{r geo, warning=FALSE, message=FALSE}
+library(ggmap)
+spain_map <- map_data('world') %>% filter(region == "Spain")
+#unikalne miejscowoœci
+miejsca <- d %>% distinct(region, miejscowosc)
+
+#szukam ich wspó³rzêdnych
+miejsca <- miejsca %>%
+  mutate(location = paste0(.$miejscowosc, ", ", .$region, ", Spain")) %>%
+  mutate_geocode(location, source = "dsk", messaging = FALSE) %>%
+  #ograniczam wyniki do znalezionych mniej wiêcej w obszarze Hiszpanii
+  filter(lon >= -10, lon <= 10, lat >= 20) %>%
+  #i tych, które maj¹ jakieœ dane w ogóle
+  na.omit()
+
+ggplot() +
+  geom_polygon(data = spain_map, aes(long, lat, group=group),
+               fill = "lightyellow", color = "black") +
+  geom_point(data = miejsca, aes(lon, lat, color = region), size = 4) +
+  coord_quickmap() + 
+  theme(axis.text.x = element_blank(), axis.text.y = element_blank()) +
+  labs(title = "Gdzie mo¿emy pojechaæ? Punkty na mapie Hiszpanii", x = "", y = "")
+
+```
+
+###Podsumowanie<a name="paragraph4"></a>
+
+Dany projekt zawiera szczegó³ow¹ analizê zbioru danych opisuj¹cego wycieczki do Hiszpanii. Zosta³y wykorzystane takie pakiety jak ```ggplot```, ```lattice```, ```graphics```, ```rpart``` itd. Wewn¹trz projektu przeanalizowano ró¿ne cechy podró¿y, które s¹ niezbêdne dla dobrego wyboru firmy turystycznej. Na podstawie niniejszej analizy mo¿na wywnioskowaæ, ¿e najlepszym organizatorem wycieczek dla **ni¿szego** segmentu cenowego jest *Exim Tours*, a dla **wy¿szego** - *Neckermann*.  O wyborze wycieczki decyduj¹ przeró¿ne charakterystyki takie jak cena, oceny podró¿ników, lokalizacja czy typ wy¿ywienia. Dla zbioru pobranego w innym dniu opisy mog¹ straciæ swoj¹ aktualnoœæ z powodu zmian w ofertach na stronie *Wakacje.pl*. 
+
+
+
+
+
+
